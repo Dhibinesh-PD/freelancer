@@ -1,0 +1,4697 @@
+{
+  "users": [
+    {
+      "id": "user-admin-1788785715570",
+      "email": "sec.admin.1788785714@apexlance.io",
+      "username": "security-operations-1788785714",
+      "passwordHash": "$2b$12$hJHmcTVAtRtmYauZDvqjCer4BEIggo1H8lUFOpeo26PWdBEhRWo6i",
+      "name": "Security Operations 1788785714",
+      "role": "ADMIN",
+      "roles": [
+        "ADMIN"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T12:55:15.860Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-freelancer-1788785714977",
+      "email": "lead.dev.1788785714@apexarchitects.io",
+      "username": "marcus-lead-1788785714",
+      "passwordHash": "$2b$12$dnXkv8K2Ydy4dQJggrEDC.R2uJlOSopNimQRUUeMxYqKTL1mikBru",
+      "name": "Marcus Lead 1788785714",
+      "role": "FREELANCER",
+      "roles": [
+        "FREELANCER"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T12:55:15.262Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-client-1788785714357",
+      "email": "client.enterprise.1788785714@novacorp.com",
+      "username": "nova-enterprise-1788785714",
+      "passwordHash": "$2b$12$fjn0l1PGcjuQakrBxqRDoOdd22CEm7ZHF.jBp8vDFiq3cz1Ho3Ez2",
+      "name": "Nova Enterprise 1788785714",
+      "role": "CLIENT",
+      "roles": [
+        "CLIENT"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T12:55:14.645Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-freelancer-1788785696298",
+      "email": "elena.rostova.1788785695@devhub.tech",
+      "username": "elena-rostova-6724",
+      "passwordHash": "$2b$12$si3oQQoKfI1wCiNEFuNLBuHEJuL/NtVemKt8mpEWuuzjS53nR5.Ni",
+      "name": "Elena Rostova",
+      "role": "FREELANCER",
+      "roles": [
+        "FREELANCER"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T12:54:56.592Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-client-1788785695649",
+      "email": "sarah.connor.1788785695@skyline-ai.com",
+      "username": "sarah-connor-7669",
+      "passwordHash": "$2b$12$S1MzamZIaFSvtOLMwY0moemd4lYElls7k85suv7415NM0jFwXiOrK",
+      "name": "Sarah Connor",
+      "role": "CLIENT",
+      "roles": [
+        "CLIENT"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T12:54:55.958Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-client-1788773502126",
+      "email": "abc@gmail.com",
+      "username": "abc",
+      "passwordHash": "$2b$12$Q.fyEOT7UgzJxHyRbR8yo.bOqqKxJW/ud.PvOjT2kkqwEDES7Ucoa",
+      "name": "abc",
+      "role": "CLIENT",
+      "roles": [
+        "CLIENT"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T09:31:42.583Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-admin-1788773328795",
+      "email": "sec.admin.1788773327@apexlance.io",
+      "username": "security-operations-1788773327",
+      "passwordHash": "$2b$12$W68o6dFh4QxnkpJJ2rR0JOOZNrzJxSIWdC9.dE/Rn1J0a33hkO4fC",
+      "name": "Security Operations 1788773327",
+      "role": "ADMIN",
+      "roles": [
+        "ADMIN"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T09:28:49.080Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-freelancer-1788773328204",
+      "email": "lead.dev.1788773327@apexarchitects.io",
+      "username": "marcus-lead-1788773327",
+      "passwordHash": "$2b$12$MxkW0bXpdW56G69bYrQObOzhwWObrT1Ud2pJnWjguS/zbfPXdtB4.",
+      "name": "Marcus Lead 1788773327",
+      "role": "FREELANCER",
+      "roles": [
+        "FREELANCER"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T09:28:48.487Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-client-1788773327589",
+      "email": "client.enterprise.1788773327@novacorp.com",
+      "username": "nova-enterprise-1788773327",
+      "passwordHash": "$2b$12$6COapnROtV9PCwF3iURhnuiDf7lfy3SO9.jcaKKRIBp.kg1aSGNqG",
+      "name": "Nova Enterprise 1788773327",
+      "role": "CLIENT",
+      "roles": [
+        "CLIENT"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T09:28:47.879Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-freelancer-1788773106429",
+      "email": "elena.rostova@devhub.tech",
+      "username": "elena-rostova",
+      "passwordHash": "$2b$12$MJ3axkoBN33rnyPD5GrCRO/j/nHZAvBWmGBY4QemO75kQ1WOFeJAG",
+      "name": "Elena Rostova",
+      "role": "FREELANCER",
+      "roles": [
+        "FREELANCER"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T09:25:06.734Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-client-1788773105705",
+      "email": "sarah.connor@skyline-ai.com",
+      "username": "sarah-connor",
+      "passwordHash": "$2b$12$OD7wNF.YwK8x3RGIJQpxn.1xJkUExaRrlFjVNx0YHtn.oBR8Wpcua",
+      "name": "Sarah Connor",
+      "role": "CLIENT",
+      "roles": [
+        "CLIENT"
+      ],
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-09-07T09:25:06.089Z",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-admin-1",
+      "email": "admin@apexlance.io",
+      "username": "admin",
+      "passwordHash": "$2b$12$g1U4hVwp9THuYeNPX0pzj.atabRTajNaFPKQ/2Opde3uN7sSSSG5i",
+      "name": "Platform Administrator",
+      "role": "SUPER_ADMIN",
+      "status": "ACTIVE",
+      "emailVerified": true
+    },
+    {
+      "id": "user-cl-1",
+      "email": "david.sterling@lumina.tech",
+      "username": "lumina-tech",
+      "passwordHash": "$2b$12$Xd1zN/WH3pjEhkroXvqW2uHfA.75CSXvWQgDE87aT4MiDIvCxyrF2",
+      "name": "David Sterling (Lumina Tech)",
+      "companyName": "Lumina Technologies Inc.",
+      "role": "CLIENT",
+      "status": "ACTIVE",
+      "emailVerified": true
+    },
+    {
+      "id": "user-fl-1",
+      "email": "alex.chen@apexlance.io",
+      "username": "alex-chen",
+      "passwordHash": "$2b$12$iYj/l.850gSfxK9uVlPl2uFfoumR04PcK/LotrFC4QtlxuAuAOgIC",
+      "name": "Alex Chen",
+      "role": "FREELANCER",
+      "status": "ACTIVE",
+      "emailVerified": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-it-software",
+      "name": "IT & Software Development",
+      "slug": "it-software",
+      "description": "Enterprise web apps, cloud infrastructure, AI models, mobile apps & cybersecurity.",
+      "icon": "Code2",
+      "projectCount": 4210,
+      "freelancerCount": 12500,
+      "subcategories": [
+        {
+          "id": "sub-web-dev",
+          "name": "Web Development",
+          "slug": "web-development",
+          "description": "Full-stack, frontend, and backend web solutions.",
+          "skills": [
+            "React",
+            "Next.js",
+            "Node.js",
+            "TypeScript",
+            "Python",
+            "Tailwind CSS"
+          ]
+        },
+        {
+          "id": "sub-mobile-dev",
+          "name": "Mobile Development",
+          "slug": "mobile-development",
+          "description": "Native and cross-platform mobile apps.",
+          "skills": [
+            "React Native",
+            "Flutter",
+            "Swift",
+            "Kotlin",
+            "iOS",
+            "Android"
+          ]
+        },
+        {
+          "id": "sub-backend-dev",
+          "name": "Backend Development",
+          "slug": "backend-development",
+          "description": "Scalable APIs, microservices, and databases.",
+          "skills": [
+            "Go",
+            "Node.js",
+            "Django",
+            "PostgreSQL",
+            "GraphQL",
+            "Docker"
+          ]
+        },
+        {
+          "id": "sub-devops-cloud",
+          "name": "DevOps & Cloud Computing",
+          "slug": "devops-cloud",
+          "description": "CI/CD pipelines, Kubernetes, and cloud management.",
+          "skills": [
+            "AWS",
+            "Azure",
+            "GCP",
+            "Kubernetes",
+            "Terraform",
+            "CI/CD"
+          ]
+        },
+        {
+          "id": "sub-ai-ml",
+          "name": "AI & Machine Learning",
+          "slug": "ai-machine-learning",
+          "description": "LLMs, predictive modeling, NLP, and computer vision.",
+          "skills": [
+            "Python",
+            "PyTorch",
+            "OpenAI API",
+            "Hugging Face",
+            "LangChain",
+            "TensorFlow"
+          ]
+        },
+        {
+          "id": "sub-cybersecurity",
+          "name": "Cybersecurity & Ethical Hacking",
+          "slug": "cybersecurity",
+          "description": "Vulnerability assessment, penetration testing, and audits.",
+          "skills": [
+            "Penetration Testing",
+            "OWASP",
+            "SOC 2",
+            "Network Security",
+            "Cryptography"
+          ]
+        },
+        {
+          "id": "sub-blockchain",
+          "name": "Blockchain & Web3",
+          "slug": "blockchain-web3",
+          "description": "Smart contracts, DeFi protocols, and decentralized apps.",
+          "skills": [
+            "Solidity",
+            "Ethereum",
+            "Smart Contracts",
+            "Rust",
+            "Web3.js"
+          ]
+        },
+        {
+          "id": "sub-qa-testing",
+          "name": "QA & Automation Testing",
+          "slug": "qa-testing",
+          "description": "Manual and automated QA suites for high reliability.",
+          "skills": [
+            "Cypress",
+            "Playwright",
+            "Jest",
+            "Selenium",
+            "Performance Testing"
+          ]
+        },
+        {
+          "id": "sub-ecommerce-dev",
+          "name": "E-commerce Development",
+          "slug": "ecommerce-development",
+          "description": "Shopify, WooCommerce, and headless commerce builds.",
+          "skills": [
+            "Shopify Liquid",
+            "WooCommerce",
+            "Magento",
+            "Stripe API"
+          ]
+        },
+        {
+          "id": "sub-game-dev",
+          "name": "Game Development",
+          "slug": "game-development",
+          "description": "2D and 3D games, AR/VR experiences.",
+          "skills": [
+            "Unity",
+            "Unreal Engine",
+            "C#",
+            "C++",
+            "3D Game Math"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-design-creative",
+      "name": "Design & Creative",
+      "slug": "design-creative",
+      "description": "Brand identity, UI/UX design, 3D modeling, illustrations & motion graphics.",
+      "icon": "Palette",
+      "projectCount": 3120,
+      "freelancerCount": 9840,
+      "subcategories": [
+        {
+          "id": "sub-ui-ux",
+          "name": "UI/UX & Product Design",
+          "slug": "ui-ux-design",
+          "description": "User journey mapping, wireframing, and Figma design systems.",
+          "skills": [
+            "Figma",
+            "Design Systems",
+            "Prototyping",
+            "User Research",
+            "Wireframing"
+          ]
+        },
+        {
+          "id": "sub-logo-brand",
+          "name": "Logo & Brand Identity",
+          "slug": "logo-brand-identity",
+          "description": "Memorable logos, style guides, and brand books.",
+          "skills": [
+            "Logo Design",
+            "Brand Guidelines",
+            "Typography",
+            "Color Theory",
+            "Adobe Illustrator"
+          ]
+        },
+        {
+          "id": "sub-illustration",
+          "name": "Illustration & Art",
+          "slug": "illustration-art",
+          "description": "Custom digital illustrations, editorial art, and book covers.",
+          "skills": [
+            "Digital Illustration",
+            "Procreate",
+            "Vector Art",
+            "Concept Art"
+          ]
+        },
+        {
+          "id": "sub-3d-design",
+          "name": "3D Design & Modeling",
+          "slug": "3d-design-modeling",
+          "description": "Photorealistic 3D renders, product concepts, and CGI.",
+          "skills": [
+            "Blender",
+            "Cinema 4D",
+            "3D Rendering",
+            "Substance Painter"
+          ]
+        },
+        {
+          "id": "sub-motion-graphics",
+          "name": "Motion Graphics & Animation",
+          "slug": "motion-graphics",
+          "description": "Explainer videos, animated logos, and Lottie animations.",
+          "skills": [
+            "After Effects",
+            "Lottie",
+            "2D Animation",
+            "Kinetic Typography"
+          ]
+        },
+        {
+          "id": "sub-packaging",
+          "name": "Packaging & Print Design",
+          "slug": "packaging-print",
+          "description": "Consumer packaging, labels, brochures, and print collateral.",
+          "skills": [
+            "Packaging Design",
+            "Print Production",
+            "Label Design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-writing-content",
+      "name": "Writing & Content",
+      "slug": "writing-content",
+      "description": "Technical writing, SEO copywriting, editorial, grant writing & ghostwriting.",
+      "icon": "FileText",
+      "projectCount": 2450,
+      "freelancerCount": 7600,
+      "subcategories": [
+        {
+          "id": "sub-tech-writing",
+          "name": "Technical Writing",
+          "slug": "technical-writing",
+          "description": "Developer documentation, API guides, and whitepapers.",
+          "skills": [
+            "API Documentation",
+            "Markdown",
+            "Whitepapers",
+            "Software Guides"
+          ]
+        },
+        {
+          "id": "sub-copywriting",
+          "name": "Copywriting & Sales Copy",
+          "slug": "copywriting",
+          "description": "High-converting landing pages, ads, and email sequences.",
+          "skills": [
+            "Landing Page Copy",
+            "Email Copywriting",
+            "Direct Response",
+            "Sales Pages"
+          ]
+        },
+        {
+          "id": "sub-seo-writing",
+          "name": "SEO Content & Articles",
+          "slug": "seo-writing",
+          "description": "Keyword-optimized blog posts that rank on search engines.",
+          "skills": [
+            "SEO Optimization",
+            "Keyword Research",
+            "Blog Writing",
+            "Long-form Articles"
+          ]
+        },
+        {
+          "id": "sub-ghostwriting",
+          "name": "Ghostwriting & Books",
+          "slug": "ghostwriting",
+          "description": "Executive ghostwriting, memoirs, and non-fiction books.",
+          "skills": [
+            "Book Writing",
+            "Executive Voice",
+            "Storytelling",
+            "Research"
+          ]
+        },
+        {
+          "id": "sub-editing-proof",
+          "name": "Editing & Proofreading",
+          "slug": "editing-proofreading",
+          "description": "Grammar polish, tone consistency, and structural editing.",
+          "skills": [
+            "Proofreading",
+            "Copy Editing",
+            "Style Guides",
+            "Fact Checking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-marketing-sales",
+      "name": "Marketing & Growth",
+      "slug": "marketing-growth",
+      "description": "Performance marketing, SEO, social media growth, lead generation & CRO.",
+      "icon": "TrendingUp",
+      "projectCount": 1980,
+      "freelancerCount": 6420,
+      "subcategories": [
+        {
+          "id": "sub-seo-sem",
+          "name": "SEO & Search Engine Marketing",
+          "slug": "seo-sem",
+          "description": "On-page, off-page, technical SEO, and Google Search ads.",
+          "skills": [
+            "Google Ads",
+            "Technical SEO",
+            "Ahrefs",
+            "Semrush",
+            "Link Building"
+          ]
+        },
+        {
+          "id": "sub-paid-social",
+          "name": "Paid Social & Ads",
+          "slug": "paid-social",
+          "description": "Meta Ads, TikTok Ads, LinkedIn B2B campaign management.",
+          "skills": [
+            "Meta Ads",
+            "LinkedIn Campaign Manager",
+            "TikTok Ads",
+            "Attribution"
+          ]
+        },
+        {
+          "id": "sub-social-media",
+          "name": "Social Media Strategy",
+          "slug": "social-media",
+          "description": "Organic community building and viral short-form content.",
+          "skills": [
+            "Community Management",
+            "Content Calendars",
+            "Organic Growth"
+          ]
+        },
+        {
+          "id": "sub-lead-generation",
+          "name": "B2B Lead Generation",
+          "slug": "lead-generation",
+          "description": "Cold email pipelines, list enrichment, and outreach automation.",
+          "skills": [
+            "Cold Outreach",
+            "Apollo.io",
+            "LinkedIn Sales Navigator",
+            "HubSpot"
+          ]
+        },
+        {
+          "id": "sub-cro",
+          "name": "Conversion Rate Optimization",
+          "slug": "conversion-rate-optimization",
+          "description": "A/B testing, funnel optimization, and user heatmaps.",
+          "skills": [
+            "Google Optimize",
+            "Hotjar",
+            "Funnel Analytics",
+            "A/B Testing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-video-audio",
+      "name": "Video & Audio Production",
+      "slug": "video-audio",
+      "description": "Video editing, podcast mixing, voice overs, color grading & sound design.",
+      "icon": "Video",
+      "projectCount": 1850,
+      "freelancerCount": 5120,
+      "subcategories": [
+        {
+          "id": "sub-video-editing",
+          "name": "Video Editing",
+          "slug": "video-editing",
+          "description": "YouTube videos, commercials, and corporate documentaries.",
+          "skills": [
+            "Premiere Pro",
+            "DaVinci Resolve",
+            "Final Cut Pro",
+            "Color Grading"
+          ]
+        },
+        {
+          "id": "sub-short-form",
+          "name": "Short-Form Video (Reels/TikTok)",
+          "slug": "short-form-video",
+          "description": "Hook-driven viral shorts, captions, and fast-paced editing.",
+          "skills": [
+            "CapCut",
+            "Reels Editing",
+            "TikTok Trends",
+            "Subtitle Styling"
+          ]
+        },
+        {
+          "id": "sub-voice-over",
+          "name": "Voice Over & Narration",
+          "slug": "voice-over",
+          "description": "Professional studio narration, character voices, and IVR.",
+          "skills": [
+            "Studio Voice",
+            "Commercial VO",
+            "Audiobook Narration",
+            "Accents"
+          ]
+        },
+        {
+          "id": "sub-audio-mixing",
+          "name": "Audio Editing & Podcasts",
+          "slug": "audio-podcasts",
+          "description": "Noise reduction, mastering, intro music, and podcast editing.",
+          "skills": [
+            "Podcast Production",
+            "Sound Design",
+            "Audio Mastering",
+            "Pro Tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-business-consulting",
+      "name": "Business & Consulting",
+      "slug": "business-consulting",
+      "description": "Management consulting, financial modeling, market research & virtual assistance.",
+      "icon": "Briefcase",
+      "projectCount": 1640,
+      "freelancerCount": 4890,
+      "subcategories": [
+        {
+          "id": "sub-strategy",
+          "name": "Business Strategy & Consulting",
+          "slug": "business-strategy",
+          "description": "Go-to-market strategy, pitch decks, and competitive analysis.",
+          "skills": [
+            "Pitch Decks",
+            "GTM Strategy",
+            "Market Analysis",
+            "Business Plans"
+          ]
+        },
+        {
+          "id": "sub-financial-model",
+          "name": "Financial Modeling & Analysis",
+          "slug": "financial-modeling",
+          "description": "DCF valuation, 3-statement models, and SaaS metric dashboards.",
+          "skills": [
+            "Financial Modeling",
+            "Excel VBA",
+            "Valuation",
+            "SaaS Metrics"
+          ]
+        },
+        {
+          "id": "sub-project-management",
+          "name": "Agile Project Management",
+          "slug": "project-management",
+          "description": "Scrum masters, Jira administration, and sprint coordination.",
+          "skills": [
+            "Scrum",
+            "Jira",
+            "Sprint Planning",
+            "Risk Management"
+          ]
+        },
+        {
+          "id": "sub-virtual-assistant",
+          "name": "Virtual Assistance & Ops",
+          "slug": "virtual-assistance",
+          "description": "Executive support, inbox management, and data handling.",
+          "skills": [
+            "Executive Assistance",
+            "Data Entry",
+            "Calendar Management",
+            "Customer Care"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-finance-accounting",
+      "name": "Finance & Accounting",
+      "slug": "finance-accounting",
+      "description": "Bookkeeping, tax compliance, payroll management & fractional CFO services.",
+      "icon": "Calculator",
+      "projectCount": 1420,
+      "freelancerCount": 3950,
+      "subcategories": [
+        {
+          "id": "sub-bookkeeping",
+          "name": "Bookkeeping & Reconciliations",
+          "slug": "bookkeeping",
+          "description": "QuickBooks, Xero, and monthly financial ledger reconciliations.",
+          "skills": [
+            "QuickBooks",
+            "Xero",
+            "Bank Reconciliation",
+            "Accounts Payable"
+          ]
+        },
+        {
+          "id": "sub-taxation",
+          "name": "Tax Services & Compliance",
+          "slug": "tax-services",
+          "description": "US/EU/Indian corporate and individual tax filings and VAT/GST.",
+          "skills": [
+            "Tax Preparation",
+            "VAT/GST Compliance",
+            "1099 Filing",
+            "Tax Planning"
+          ]
+        },
+        {
+          "id": "sub-fractional-cfo",
+          "name": "Fractional CFO Services",
+          "slug": "fractional-cfo",
+          "description": "Capital fundraising, board advisory, and burn rate management.",
+          "skills": [
+            "Cashflow Management",
+            "Fundraising Support",
+            "Investor Reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-legal-compliance",
+      "name": "Legal & Contracts",
+      "slug": "legal-contracts",
+      "description": "Commercial contracts, privacy policies, IP filings & corporate compliance.",
+      "icon": "Scale",
+      "projectCount": 980,
+      "freelancerCount": 2410,
+      "subcategories": [
+        {
+          "id": "sub-contracts-review",
+          "name": "Contract Drafting & Review",
+          "slug": "contract-drafting",
+          "description": "NDAs, MSAs, SLA agreements, and employment agreements.",
+          "skills": [
+            "Contract Law",
+            "NDA Drafting",
+            "Service Agreements",
+            "Terms of Service"
+          ]
+        },
+        {
+          "id": "sub-ip-trademark",
+          "name": "IP & Trademarks",
+          "slug": "intellectual-property",
+          "description": "Trademark searches, copyright protection, and patent research.",
+          "skills": [
+            "Trademark Registration",
+            "Copyright Law",
+            "IP Portfolio Management"
+          ]
+        },
+        {
+          "id": "sub-privacy-compliance",
+          "name": "Data Privacy & Compliance",
+          "slug": "privacy-compliance",
+          "description": "GDPR compliance, CCPA, and privacy policy formulation.",
+          "skills": [
+            "GDPR",
+            "CCPA",
+            "Privacy Policy",
+            "Compliance Auditing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-engineering-architecture",
+      "name": "Engineering & Architecture",
+      "slug": "engineering-architecture",
+      "description": "CAD drafting, mechanical design, BIM models, structural & interior rendering.",
+      "icon": "Building2",
+      "projectCount": 1120,
+      "freelancerCount": 3180,
+      "subcategories": [
+        {
+          "id": "sub-cad-drafting",
+          "name": "CAD & Mechanical Design",
+          "slug": "cad-mechanical",
+          "description": "SolidWorks, AutoCAD engineering drawings, and CNC files.",
+          "skills": [
+            "SolidWorks",
+            "AutoCAD",
+            "Mechanical Engineering",
+            "CNC Programming"
+          ]
+        },
+        {
+          "id": "sub-architectural-design",
+          "name": "Architectural Plans & BIM",
+          "slug": "architectural-plans",
+          "description": "Floor plans, Revit BIM models, and construction blueprints.",
+          "skills": [
+            "Revit",
+            "BIM Modeling",
+            "Floor Plans",
+            "Architectural Drawings"
+          ]
+        },
+        {
+          "id": "sub-interior-rendering",
+          "name": "Interior & Landscape 3D",
+          "slug": "interior-rendering",
+          "description": "Photorealistic arch-viz, lighting simulations, and interior tours.",
+          "skills": [
+            "3ds Max",
+            "V-Ray",
+            "Interior Design",
+            "Landscape Architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-translation-languages",
+      "name": "Translation & Languages",
+      "slug": "translation-languages",
+      "description": "Certified translation, software localization, transcription & subtitling.",
+      "icon": "Languages",
+      "projectCount": 890,
+      "freelancerCount": 2980,
+      "subcategories": [
+        {
+          "id": "sub-localization",
+          "name": "Software & Web Localization",
+          "slug": "software-localization",
+          "description": "i18n string translations, cultural adaptation, and proofing.",
+          "skills": [
+            "Localization",
+            "i18n",
+            "Crowdin",
+            "Multilingual QA"
+          ]
+        },
+        {
+          "id": "sub-doc-translation",
+          "name": "Document Translation",
+          "slug": "document-translation",
+          "description": "Spanish, German, French, Japanese, Hindi, Arabic translation.",
+          "skills": [
+            "Certified Translation",
+            "Legal Translation",
+            "Technical Translation"
+          ]
+        },
+        {
+          "id": "sub-subtitling",
+          "name": "Subtitling & Transcription",
+          "slug": "subtitling-transcription",
+          "description": "SRT creation, audio-to-text, and timestamped transcripts.",
+          "skills": [
+            "Subtitling",
+            "Audio Transcription",
+            "SRT Formatting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-education-tutoring",
+      "name": "Education & Coaching",
+      "slug": "education-coaching",
+      "description": "Coding mentorship, language tutoring, executive coaching & curriculum design.",
+      "icon": "GraduationCap",
+      "projectCount": 760,
+      "freelancerCount": 2150,
+      "subcategories": [
+        {
+          "id": "sub-coding-mentorship",
+          "name": "Coding & Tech Mentorship",
+          "slug": "coding-mentorship",
+          "description": "1-on-1 code reviews, interview prep, and technical tutoring.",
+          "skills": [
+            "LeetCode Coaching",
+            "System Design Prep",
+            "Code Review"
+          ]
+        },
+        {
+          "id": "sub-career-coaching",
+          "name": "Career & Executive Coaching",
+          "slug": "career-coaching",
+          "description": "Resume rewrites, LinkedIn optimization, and leadership training.",
+          "skills": [
+            "Resume Polish",
+            "Interview Prep",
+            "Executive Coaching"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-local-services",
+      "name": "Local & Specialized Services",
+      "slug": "local-specialized",
+      "description": "Event photography, commercial production, on-site IT setups & specialized consulting.",
+      "icon": "MapPin",
+      "projectCount": 650,
+      "freelancerCount": 1840,
+      "subcategories": [
+        {
+          "id": "sub-photography",
+          "name": "Commercial Photography",
+          "slug": "commercial-photography",
+          "description": "Product photography, headshots, and corporate events.",
+          "skills": [
+            "Product Photography",
+            "Lightroom",
+            "Studio Lighting",
+            "Headshots"
+          ]
+        },
+        {
+          "id": "sub-event-services",
+          "name": "Event Production & Audio",
+          "slug": "event-production",
+          "description": "Stage setup, live streaming, and AV coordination.",
+          "skills": [
+            "Live Streaming",
+            "AV Management",
+            "Event Planning"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "sk-react",
+      "name": "React",
+      "slug": "react",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-nextjs",
+      "name": "Next.js",
+      "slug": "nextjs",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-vue",
+      "name": "Vue.js",
+      "slug": "vuejs",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-nuxt",
+      "name": "Nuxt.js",
+      "slug": "nuxtjs",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-angular",
+      "name": "Angular",
+      "slug": "angular",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-svelte",
+      "name": "Svelte",
+      "slug": "svelte",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-typescript",
+      "name": "TypeScript",
+      "slug": "typescript",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-javascript",
+      "name": "JavaScript",
+      "slug": "javascript",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-html5",
+      "name": "HTML5",
+      "slug": "html5",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-css3",
+      "name": "CSS3",
+      "slug": "css3",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-tailwind",
+      "name": "Tailwind CSS",
+      "slug": "tailwind-css",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-sass",
+      "name": "SASS/SCSS",
+      "slug": "sass-scss",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-bootstrap",
+      "name": "Bootstrap",
+      "slug": "bootstrap",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-webgl",
+      "name": "WebGL",
+      "slug": "webgl",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-threejs",
+      "name": "Three.js",
+      "slug": "threejs",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-redux",
+      "name": "Redux",
+      "slug": "redux",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-zustand",
+      "name": "Zustand",
+      "slug": "zustand",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-graphql",
+      "name": "GraphQL",
+      "slug": "graphql",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-rest-api",
+      "name": "REST API Design",
+      "slug": "rest-api-design",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-webpack",
+      "name": "Webpack",
+      "slug": "webpack",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-vite",
+      "name": "Vite",
+      "slug": "vite",
+      "category": "Web Development"
+    },
+    {
+      "id": "sk-nodejs",
+      "name": "Node.js",
+      "slug": "nodejs",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-express",
+      "name": "Express.js",
+      "slug": "expressjs",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-nestjs",
+      "name": "NestJS",
+      "slug": "nestjs",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-python",
+      "name": "Python",
+      "slug": "python",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-django",
+      "name": "Django",
+      "slug": "django",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-fastapi",
+      "name": "FastAPI",
+      "slug": "fastapi",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-flask",
+      "name": "Flask",
+      "slug": "flask",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-golang",
+      "name": "Go (Golang)",
+      "slug": "golang",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-rust",
+      "name": "Rust",
+      "slug": "rust",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-java",
+      "name": "Java",
+      "slug": "java",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-spring",
+      "name": "Spring Boot",
+      "slug": "spring-boot",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-csharp",
+      "name": "C#",
+      "slug": "csharp",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-dotnet",
+      "name": ".NET Core",
+      "slug": "dotnet-core",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-php",
+      "name": "PHP",
+      "slug": "php",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-laravel",
+      "name": "Laravel",
+      "slug": "laravel",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-ruby",
+      "name": "Ruby",
+      "slug": "ruby",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-rails",
+      "name": "Ruby on Rails",
+      "slug": "ruby-on-rails",
+      "category": "Backend"
+    },
+    {
+      "id": "sk-postgres",
+      "name": "PostgreSQL",
+      "slug": "postgresql",
+      "category": "Databases"
+    },
+    {
+      "id": "sk-mysql",
+      "name": "MySQL",
+      "slug": "mysql",
+      "category": "Databases"
+    },
+    {
+      "id": "sk-mongodb",
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "category": "Databases"
+    },
+    {
+      "id": "sk-redis",
+      "name": "Redis",
+      "slug": "redis",
+      "category": "Databases"
+    },
+    {
+      "id": "sk-elasticsearch",
+      "name": "Elasticsearch",
+      "slug": "elasticsearch",
+      "category": "Databases"
+    },
+    {
+      "id": "sk-dynamodb",
+      "name": "DynamoDB",
+      "slug": "dynamodb",
+      "category": "Databases"
+    },
+    {
+      "id": "sk-prisma",
+      "name": "Prisma ORM",
+      "slug": "prisma-orm",
+      "category": "Databases"
+    },
+    {
+      "id": "sk-react-native",
+      "name": "React Native",
+      "slug": "react-native",
+      "category": "Mobile"
+    },
+    {
+      "id": "sk-flutter",
+      "name": "Flutter",
+      "slug": "flutter",
+      "category": "Mobile"
+    },
+    {
+      "id": "sk-swift",
+      "name": "Swift",
+      "slug": "swift",
+      "category": "Mobile"
+    },
+    {
+      "id": "sk-swiftui",
+      "name": "SwiftUI",
+      "slug": "swiftui",
+      "category": "Mobile"
+    },
+    {
+      "id": "sk-kotlin",
+      "name": "Kotlin",
+      "slug": "kotlin",
+      "category": "Mobile"
+    },
+    {
+      "id": "sk-android-sdk",
+      "name": "Android SDK",
+      "slug": "android-sdk",
+      "category": "Mobile"
+    },
+    {
+      "id": "sk-ios",
+      "name": "iOS Development",
+      "slug": "ios-development",
+      "category": "Mobile"
+    },
+    {
+      "id": "sk-aws",
+      "name": "AWS",
+      "slug": "aws",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-azure",
+      "name": "Microsoft Azure",
+      "slug": "azure",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-gcp",
+      "name": "Google Cloud (GCP)",
+      "slug": "google-cloud",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-docker",
+      "name": "Docker",
+      "slug": "docker",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-kubernetes",
+      "name": "Kubernetes",
+      "slug": "kubernetes",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-terraform",
+      "name": "Terraform",
+      "slug": "terraform",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-ansible",
+      "name": "Ansible",
+      "slug": "ansible",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-github-actions",
+      "name": "GitHub Actions",
+      "slug": "github-actions",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-jenkins",
+      "name": "Jenkins",
+      "slug": "jenkins",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-nginx",
+      "name": "NGINX",
+      "slug": "nginx",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-linux",
+      "name": "Linux Administration",
+      "slug": "linux-admin",
+      "category": "DevOps"
+    },
+    {
+      "id": "sk-pytorch",
+      "name": "PyTorch",
+      "slug": "pytorch",
+      "category": "AI & ML"
+    },
+    {
+      "id": "sk-tensorflow",
+      "name": "TensorFlow",
+      "slug": "tensorflow",
+      "category": "AI & ML"
+    },
+    {
+      "id": "sk-openai",
+      "name": "OpenAI API",
+      "slug": "openai-api",
+      "category": "AI & ML"
+    },
+    {
+      "id": "sk-langchain",
+      "name": "LangChain",
+      "slug": "langchain",
+      "category": "AI & ML"
+    },
+    {
+      "id": "sk-huggingface",
+      "name": "Hugging Face",
+      "slug": "hugging-face",
+      "category": "AI & ML"
+    },
+    {
+      "id": "sk-nlp",
+      "name": "Natural Language Processing (NLP)",
+      "slug": "nlp",
+      "category": "AI & ML"
+    },
+    {
+      "id": "sk-computer-vision",
+      "name": "Computer Vision",
+      "slug": "computer-vision",
+      "category": "AI & ML"
+    },
+    {
+      "id": "sk-pandas",
+      "name": "Pandas",
+      "slug": "pandas",
+      "category": "Data Science"
+    },
+    {
+      "id": "sk-numpy",
+      "name": "NumPy",
+      "slug": "numpy",
+      "category": "Data Science"
+    },
+    {
+      "id": "sk-scikit",
+      "name": "Scikit-Learn",
+      "slug": "scikit-learn",
+      "category": "AI & ML"
+    },
+    {
+      "id": "sk-data-engineering",
+      "name": "Data Engineering",
+      "slug": "data-engineering",
+      "category": "Data Science"
+    },
+    {
+      "id": "sk-spark",
+      "name": "Apache Spark",
+      "slug": "apache-spark",
+      "category": "Data Science"
+    },
+    {
+      "id": "sk-tableau",
+      "name": "Tableau",
+      "slug": "tableau",
+      "category": "Data Science"
+    },
+    {
+      "id": "sk-powerbi",
+      "name": "Power BI",
+      "slug": "power-bi",
+      "category": "Data Science"
+    },
+    {
+      "id": "sk-pen-testing",
+      "name": "Penetration Testing",
+      "slug": "penetration-testing",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "sk-owasp",
+      "name": "OWASP Top 10 Auditing",
+      "slug": "owasp-auditing",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "sk-soc2",
+      "name": "SOC 2 Compliance",
+      "slug": "soc-2-compliance",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "sk-cryptography",
+      "name": "Cryptography",
+      "slug": "cryptography",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "sk-network-sec",
+      "name": "Network Security",
+      "slug": "network-security",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "sk-figma",
+      "name": "Figma",
+      "slug": "figma",
+      "category": "Design"
+    },
+    {
+      "id": "sk-ui-design",
+      "name": "UI Design",
+      "slug": "ui-design",
+      "category": "Design"
+    },
+    {
+      "id": "sk-ux-research",
+      "name": "UX Research",
+      "slug": "ux-research",
+      "category": "Design"
+    },
+    {
+      "id": "sk-design-systems",
+      "name": "Design Systems",
+      "slug": "design-systems",
+      "category": "Design"
+    },
+    {
+      "id": "sk-wireframing",
+      "name": "Wireframing",
+      "slug": "wireframing",
+      "category": "Design"
+    },
+    {
+      "id": "sk-illustrator",
+      "name": "Adobe Illustrator",
+      "slug": "adobe-illustrator",
+      "category": "Design"
+    },
+    {
+      "id": "sk-photoshop",
+      "name": "Adobe Photoshop",
+      "slug": "adobe-photoshop",
+      "category": "Design"
+    },
+    {
+      "id": "sk-blender",
+      "name": "Blender 3D",
+      "slug": "blender-3d",
+      "category": "Design"
+    },
+    {
+      "id": "sk-cinema4d",
+      "name": "Cinema 4D",
+      "slug": "cinema-4d",
+      "category": "Design"
+    },
+    {
+      "id": "sk-after-effects",
+      "name": "Adobe After Effects",
+      "slug": "after-effects",
+      "category": "Video & Audio"
+    },
+    {
+      "id": "sk-premiere",
+      "name": "Adobe Premiere Pro",
+      "slug": "premiere-pro",
+      "category": "Video & Audio"
+    },
+    {
+      "id": "sk-davinci",
+      "name": "DaVinci Resolve",
+      "slug": "davinci-resolve",
+      "category": "Video & Audio"
+    },
+    {
+      "id": "sk-copywriting",
+      "name": "Copywriting",
+      "slug": "copywriting",
+      "category": "Writing"
+    },
+    {
+      "id": "sk-tech-writing",
+      "name": "Technical Writing",
+      "slug": "technical-writing",
+      "category": "Writing"
+    },
+    {
+      "id": "sk-seo-writing",
+      "name": "SEO Content Writing",
+      "slug": "seo-content-writing",
+      "category": "Writing"
+    },
+    {
+      "id": "sk-seo",
+      "name": "Search Engine Optimization (SEO)",
+      "slug": "seo",
+      "category": "Marketing"
+    },
+    {
+      "id": "sk-google-ads",
+      "name": "Google Ads",
+      "slug": "google-ads",
+      "category": "Marketing"
+    },
+    {
+      "id": "sk-meta-ads",
+      "name": "Meta Ads (Facebook & Instagram)",
+      "slug": "meta-ads",
+      "category": "Marketing"
+    },
+    {
+      "id": "sk-email-marketing",
+      "name": "Email Marketing & Klaviyo",
+      "slug": "email-marketing",
+      "category": "Marketing"
+    },
+    {
+      "id": "sk-b2b-lead-gen",
+      "name": "B2B Lead Generation",
+      "slug": "b2b-lead-gen",
+      "category": "Marketing"
+    },
+    {
+      "id": "sk-financial-modeling",
+      "name": "Financial Modeling",
+      "slug": "financial-modeling",
+      "category": "Finance"
+    },
+    {
+      "id": "sk-quickbooks",
+      "name": "QuickBooks Online",
+      "slug": "quickbooks-online",
+      "category": "Finance"
+    },
+    {
+      "id": "sk-xero",
+      "name": "Xero Accounting",
+      "slug": "xero-accounting",
+      "category": "Finance"
+    },
+    {
+      "id": "sk-tax-compliance",
+      "name": "Tax Planning & Compliance",
+      "slug": "tax-compliance",
+      "category": "Finance"
+    },
+    {
+      "id": "sk-contract-drafting",
+      "name": "Contract Law & Drafting",
+      "slug": "contract-law",
+      "category": "Legal"
+    },
+    {
+      "id": "sk-gdpr",
+      "name": "GDPR & Privacy Compliance",
+      "slug": "gdpr-compliance",
+      "category": "Legal"
+    },
+    {
+      "id": "sk-pitch-decks",
+      "name": "Pitch Deck Design",
+      "slug": "pitch-deck-design",
+      "category": "Business"
+    },
+    {
+      "id": "sk-agile-scrum",
+      "name": "Agile & Scrum Management",
+      "slug": "agile-scrum",
+      "category": "Business"
+    },
+    {
+      "id": "sk-solidworks",
+      "name": "SolidWorks CAD",
+      "slug": "solidworks-cad",
+      "category": "Engineering"
+    },
+    {
+      "id": "sk-revit",
+      "name": "Autodesk Revit BIM",
+      "slug": "revit-bim",
+      "category": "Architecture"
+    },
+    {
+      "id": "sk-autocad",
+      "name": "AutoCAD",
+      "slug": "autocad",
+      "category": "Architecture"
+    }
+  ],
+  "freelancers": [
+    {
+      "id": "fl-1788785715262",
+      "userId": "user-freelancer-1788785714977",
+      "username": "marcus-lead-1788785714",
+      "name": "Marcus Lead 1788785714",
+      "title": "Principal Kubernetes & Cloud Native Architect",
+      "headline": "Principal Kubernetes & Cloud Native Architect",
+      "overview": "Senior expert specializing in high-performance digital solutions and architectures.",
+      "hourlyRate": 160,
+      "experienceLevel": "EXPERT",
+      "rating": 5,
+      "reviewCount": 0,
+      "totalEarnings": 0,
+      "completedJobsCount": 0,
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "country": "Germany",
+      "city": "San Francisco",
+      "isTopRated": false,
+      "isVerified": true,
+      "isAvailable": true,
+      "skills": [
+        "Kubernetes",
+        "Go",
+        "Docker",
+        "AWS",
+        "Terraform"
+      ],
+      "portfolio": []
+    },
+    {
+      "id": "fl-1788785696592",
+      "userId": "user-freelancer-1788785696298",
+      "username": "elena-rostova-6724",
+      "name": "Elena Rostova",
+      "title": "Staff Rust & Distributed Systems Engineer",
+      "headline": "Staff Rust & Distributed Systems Engineer",
+      "overview": "Senior expert specializing in high-performance digital solutions and architectures.",
+      "hourlyRate": 135,
+      "experienceLevel": "EXPERT",
+      "rating": 5,
+      "reviewCount": 0,
+      "totalEarnings": 0,
+      "completedJobsCount": 0,
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "country": "United States",
+      "city": "San Francisco",
+      "isTopRated": false,
+      "isVerified": true,
+      "isAvailable": true,
+      "skills": [
+        "Rust",
+        "Go",
+        "Distributed Systems",
+        "gRPC"
+      ],
+      "portfolio": []
+    },
+    {
+      "id": "fl-1788773328487",
+      "userId": "user-freelancer-1788773328204",
+      "username": "marcus-lead-1788773327",
+      "name": "Marcus Lead 1788773327",
+      "title": "Principal Kubernetes & Cloud Native Architect",
+      "headline": "Principal Kubernetes & Cloud Native Architect",
+      "overview": "Senior expert specializing in high-performance digital solutions and architectures.",
+      "hourlyRate": 160,
+      "experienceLevel": "EXPERT",
+      "rating": 5,
+      "reviewCount": 0,
+      "totalEarnings": 0,
+      "completedJobsCount": 0,
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "country": "Germany",
+      "city": "San Francisco",
+      "isTopRated": false,
+      "isVerified": true,
+      "isAvailable": true,
+      "skills": [
+        "Kubernetes",
+        "Go",
+        "Docker",
+        "AWS",
+        "Terraform"
+      ],
+      "portfolio": []
+    },
+    {
+      "id": "fl-1788773106734",
+      "userId": "user-freelancer-1788773106429",
+      "username": "elena-rostova",
+      "name": "Elena Rostova",
+      "title": "Staff Rust & Distributed Systems Engineer",
+      "bio": "Senior expert specializing in high-performance digital solutions and architectures.",
+      "hourlyRate": 135,
+      "rating": 5,
+      "reviewCount": 0,
+      "earnings": 0,
+      "completedProjectsCount": 0,
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "country": "United States",
+      "isTopRated": false,
+      "skills": [
+        "Rust",
+        "Go",
+        "Distributed Systems",
+        "gRPC"
+      ],
+      "availability": "AVAILABLE"
+    },
+    {
+      "id": "fl-1",
+      "userId": "user-fl-1",
+      "username": "alex-chen",
+      "name": "Alex Chen",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "title": "Senior Full-Stack & Next.js Architect",
+      "headline": "Ex-Stripe engineer specializing in scalable React, Next.js, and TypeScript architectures.",
+      "overview": "With over 9 years of engineering experience, I build high-throughput, enterprise-grade web applications. I specialize in Next.js App Router, Tailwind CSS, PostgreSQL, and high-performance serverless backends.",
+      "hourlyRate": 110,
+      "experienceLevel": "EXPERT",
+      "rating": 4.98,
+      "reviewCount": 47,
+      "totalEarnings": 184500,
+      "completedJobsCount": 52,
+      "country": "United States",
+      "city": "San Francisco, CA",
+      "skills": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Tailwind CSS",
+        "AWS"
+      ],
+      "isTopRated": true,
+      "isVerified": true,
+      "isAvailable": true,
+      "portfolio": [
+        {
+          "id": "p1",
+          "title": "Fintech SaaS Platform Dashboard",
+          "description": "Architected a real-time trading dashboard handling 50k+ daily transactions with sub-100ms API responses.",
+          "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=80",
+          "technologies": [
+            "Next.js",
+            "TypeScript",
+            "PostgreSQL",
+            "Tailwind CSS",
+            "Prisma"
+          ]
+        },
+        {
+          "id": "p2",
+          "title": "Enterprise Design System & UI Library",
+          "description": "Built an accessible, token-driven component library used across 14 internal product teams.",
+          "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=800&auto=format&fit=crop&q=80",
+          "technologies": [
+            "React",
+            "Storybook",
+            "Tailwind CSS",
+            "Radix UI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fl-2",
+      "userId": "user-fl-2",
+      "username": "elena-rostova",
+      "name": "Elena Rostova",
+      "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+      "title": "Lead UI/UX & Product Designer",
+      "headline": "Award-winning product designer creating high-converting web & mobile design systems.",
+      "overview": "I design intuitive, beautiful, and accessible software interfaces that drive conversions. Having designed 60+ products from zero to scale, my process marries rigorous user research with world-class visual polish.",
+      "hourlyRate": 95,
+      "experienceLevel": "EXPERT",
+      "rating": 5,
+      "reviewCount": 39,
+      "totalEarnings": 132000,
+      "completedJobsCount": 44,
+      "country": "Germany",
+      "city": "Berlin",
+      "skills": [
+        "Figma",
+        "UI Design",
+        "UX Research",
+        "Design Systems",
+        "Prototyping",
+        "Wireframing"
+      ],
+      "isTopRated": true,
+      "isVerified": true,
+      "isAvailable": true,
+      "portfolio": [
+        {
+          "id": "p3",
+          "title": "B2B AI Productivity Suite Interface",
+          "description": "End-to-end design system, user testing, and interactive prototypes for an AI workflow application.",
+          "imageUrl": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=800&auto=format&fit=crop&q=80",
+          "technologies": [
+            "Figma",
+            "Protopie",
+            "Design Tokens",
+            "Accessibility WCAG"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fl-3",
+      "userId": "user-fl-3",
+      "username": "devon-vance",
+      "name": "Devon Vance",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "title": "DevOps & Cloud Infrastructure Architect",
+      "headline": "AWS Certified Solutions Architect & Kubernetes DevOps Engineer.",
+      "overview": "Specialized in cloud migration, Terraform infrastructure-as-code, Docker containerization, and zero-downtime CI/CD pipelines.",
+      "hourlyRate": 125,
+      "experienceLevel": "EXPERT",
+      "rating": 4.96,
+      "reviewCount": 31,
+      "totalEarnings": 145000,
+      "completedJobsCount": 36,
+      "country": "Canada",
+      "city": "Toronto",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Linux Admin",
+        "PostgreSQL"
+      ],
+      "isTopRated": true,
+      "isVerified": true,
+      "isAvailable": false,
+      "portfolio": [
+        {
+          "id": "p4",
+          "title": "Multi-Region Kubernetes Cluster Migration",
+          "description": "Migrated high-traffic microservices to AWS EKS with 99.99% SLA and 35% cloud cost reduction.",
+          "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=80",
+          "technologies": [
+            "Kubernetes",
+            "AWS EKS",
+            "Terraform",
+            "Helm",
+            "Prometheus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fl-4",
+      "userId": "user-fl-4",
+      "username": "priya-sharma",
+      "name": "Priya Sharma",
+      "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&auto=format&fit=crop&q=80",
+      "title": "AI & Machine Learning Engineer",
+      "headline": "LLM fine-tuning, RAG pipelines, and generative AI application development.",
+      "overview": "I build enterprise AI solutions integrating LLMs, LangChain, vector databases, and custom PyTorch deep learning models for NLP and automation.",
+      "hourlyRate": 115,
+      "experienceLevel": "EXPERT",
+      "rating": 4.97,
+      "reviewCount": 28,
+      "totalEarnings": 98000,
+      "completedJobsCount": 30,
+      "country": "India",
+      "city": "Bengaluru",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "OpenAI API",
+        "LangChain",
+        "Vector Databases",
+        "FastAPI"
+      ],
+      "isTopRated": true,
+      "isVerified": true,
+      "isAvailable": true,
+      "portfolio": [
+        {
+          "id": "p5",
+          "title": "Intelligent Document Analysis RAG System",
+          "description": "Automated extraction and analysis of financial filings using embedding search and fine-tuned LLMs.",
+          "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80",
+          "technologies": [
+            "Python",
+            "LangChain",
+            "Pinecone",
+            "OpenAI",
+            "FastAPI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fl-5",
+      "userId": "user-fl-5",
+      "username": "marcus-thorne",
+      "name": "Marcus Thorne",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80",
+      "title": "Fractional CFO & Financial Modeling Consultant",
+      "headline": "Former Goldman Sachs analyst providing 3-statement models, valuation, and capital raising support.",
+      "overview": "I help startups and growth companies prepare institutional-grade financial models, investor pitch decks, and cashflow optimization plans.",
+      "hourlyRate": 140,
+      "experienceLevel": "EXPERT",
+      "rating": 5,
+      "reviewCount": 24,
+      "totalEarnings": 112000,
+      "completedJobsCount": 25,
+      "country": "United Kingdom",
+      "city": "London",
+      "skills": [
+        "Financial Modeling",
+        "Valuation",
+        "Excel VBA",
+        "SaaS Metrics",
+        "Pitch Decks",
+        "Cashflow Management"
+      ],
+      "isTopRated": true,
+      "isVerified": true,
+      "isAvailable": true,
+      "portfolio": [
+        {
+          "id": "p6",
+          "title": "Series A SaaS Financial Model & Valuation",
+          "description": "Built comprehensive dynamic financial forecasting model that helped a client secure $8.5M Series A funding.",
+          "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=80",
+          "technologies": [
+            "Financial Modeling",
+            "Scenario Analysis",
+            "Excel",
+            "KPI Dashboard"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fl-6",
+      "userId": "user-fl-6",
+      "username": "sarah-jenkins",
+      "name": "Sarah Jenkins",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&auto=format&fit=crop&q=80",
+      "title": "B2B SaaS Copywriter & Content Strategist",
+      "headline": "Direct-response copywriting that drives conversions for high-growth tech companies.",
+      "overview": "I write landing pages, case studies, and email sequences that explain complex software clearly and compel enterprise decision-makers to act.",
+      "hourlyRate": 85,
+      "experienceLevel": "EXPERT",
+      "rating": 4.95,
+      "reviewCount": 42,
+      "totalEarnings": 88000,
+      "completedJobsCount": 49,
+      "country": "United States",
+      "city": "Austin, TX",
+      "skills": [
+        "Copywriting",
+        "Landing Page Copy",
+        "Email Copywriting",
+        "SEO Optimization",
+        "Technical Writing"
+      ],
+      "isTopRated": true,
+      "isVerified": true,
+      "isAvailable": true,
+      "portfolio": [
+        {
+          "id": "p7",
+          "title": "Cloud Security Landing Page Redesign Copy",
+          "description": "Rewrote marketing copy and positioning, boosting inbound demo booking conversion rate by 42%.",
+          "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&auto=format&fit=crop&q=80",
+          "technologies": [
+            "Copywriting",
+            "A/B Testing",
+            "GTM Messaging"
+          ]
+        }
+      ]
+    }
+  ],
+  "clients": [
+    {
+      "id": "cl-1788785714645",
+      "userId": "user-client-1788785714357",
+      "name": "Nova Enterprise 1788785714",
+      "companyName": "Nova Systems Inc.",
+      "industry": "Artificial Intelligence & ML",
+      "rating": 5,
+      "totalSpent": 0,
+      "activeProjectsCount": 0,
+      "paymentVerified": true,
+      "country": "United States",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "cl-1788785695958",
+      "userId": "user-client-1788785695649",
+      "name": "Sarah Connor",
+      "companyName": "Skyline AI Systems",
+      "industry": "Artificial Intelligence",
+      "rating": 5,
+      "totalSpent": 0,
+      "activeProjectsCount": 0,
+      "paymentVerified": true,
+      "country": "United States",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "cl-1788773502583",
+      "userId": "user-client-1788773502126",
+      "name": "abc",
+      "companyName": "abc",
+      "industry": "Enterprise Software / SaaS",
+      "rating": 5,
+      "totalSpent": 0,
+      "activeProjectsCount": 0,
+      "paymentVerified": true,
+      "country": "india",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "cl-1788773327879",
+      "userId": "user-client-1788773327589",
+      "name": "Nova Enterprise 1788773327",
+      "companyName": "Nova Systems Inc.",
+      "industry": "Artificial Intelligence & ML",
+      "rating": 5,
+      "totalSpent": 0,
+      "activeProjectsCount": 0,
+      "paymentVerified": true,
+      "country": "United States",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "cl-1788773106089",
+      "userId": "user-client-1788773105705",
+      "name": "Sarah Connor",
+      "companyName": "Skyline AI Systems",
+      "industry": "Artificial Intelligence",
+      "rating": 5,
+      "totalSpent": 0,
+      "activeProjectsCount": 0,
+      "paymentVerified": true,
+      "country": "United States",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "cl-1",
+      "userId": "user-cl-1",
+      "username": "lumina-tech",
+      "name": "David Sterling",
+      "companyName": "Lumina Technologies Inc.",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "country": "United States",
+      "totalSpent": 128000,
+      "rating": 4.96,
+      "reviewCount": 38,
+      "jobsPostedCount": 26
+    },
+    {
+      "id": "cl-2",
+      "userId": "user-cl-2",
+      "username": "nexus-health",
+      "name": "Claire Beauchamp",
+      "companyName": "Nexus Health Systems",
+      "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&auto=format&fit=crop&q=80",
+      "country": "Canada",
+      "totalSpent": 74500,
+      "rating": 5,
+      "reviewCount": 19,
+      "jobsPostedCount": 14
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-1",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "freelancerRating": 4.98,
+      "category": "IT & Software Development",
+      "categorySlug": "it-software",
+      "title": "I will build a production-ready Next.js 15 full-stack application",
+      "slug": "build-production-nextjs-app",
+      "description": "Get a modern, blazing-fast web application built with Next.js 15 App Router, TypeScript, Tailwind CSS, and PostgreSQL. Clean code, SEO-optimized, and fully responsive.",
+      "coverImageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+      "startingPrice": 450,
+      "deliveryDays": 5,
+      "rating": 5,
+      "reviewCount": 28,
+      "salesCount": 34,
+      "packages": [
+        {
+          "tier": "BASIC",
+          "name": "MVP Starter",
+          "price": 450,
+          "deliveryDays": 4,
+          "revisions": 2,
+          "features": [
+            "3 Responsive Pages",
+            "Tailwind CSS Styling",
+            "TypeScript Setup",
+            "SEO Metadata"
+          ]
+        },
+        {
+          "tier": "STANDARD",
+          "name": "Full Stack Pro",
+          "price": 950,
+          "deliveryDays": 7,
+          "revisions": 3,
+          "features": [
+            "7 Responsive Pages",
+            "Database Integration (PostgreSQL/Prisma)",
+            "Authentication System",
+            "API Route Handlers",
+            "Speed Optimization"
+          ]
+        },
+        {
+          "tier": "PREMIUM",
+          "name": "Enterprise Architecture",
+          "price": 1800,
+          "deliveryDays": 14,
+          "revisions": 5,
+          "features": [
+            "Complete Web App",
+            "Payments / Stripe Escrow Integration",
+            "Admin Dashboard",
+            "CI/CD Setup",
+            "Testing & 30-Day Support"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "srv-2",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+      "freelancerRating": 5,
+      "category": "Design & Creative",
+      "categorySlug": "design-creative",
+      "title": "I will design an enterprise UI/UX design system in Figma",
+      "slug": "enterprise-ui-ux-figma-system",
+      "description": "Modern, pixel-perfect user interface design tailored for web and mobile apps. Complete with reusable Figma component tokens, responsive auto-layout, and interactive prototypes.",
+      "coverImageUrl": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&auto=format&fit=crop&q=80",
+      "startingPrice": 350,
+      "deliveryDays": 4,
+      "rating": 5,
+      "reviewCount": 31,
+      "salesCount": 42,
+      "packages": [
+        {
+          "tier": "BASIC",
+          "name": "Key Screen Concept",
+          "price": 350,
+          "deliveryDays": 3,
+          "revisions": 2,
+          "features": [
+            "2 High-fidelity Screens",
+            "Mobile & Desktop Variants",
+            "Figma Source File"
+          ]
+        },
+        {
+          "tier": "STANDARD",
+          "name": "Product Core Pack",
+          "price": 750,
+          "deliveryDays": 6,
+          "revisions": 3,
+          "features": [
+            "6 High-fidelity Screens",
+            "Interactive Prototype",
+            "Design System Tokens",
+            "Export Assets"
+          ]
+        },
+        {
+          "tier": "PREMIUM",
+          "name": "Complete SaaS Suite",
+          "price": 1500,
+          "deliveryDays": 12,
+          "revisions": 5,
+          "features": [
+            "15+ Complete App Screens",
+            "Design System & UI Kit",
+            "Developer Hand-off Specs",
+            "Clickable Prototype",
+            "User Testing Report"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "srv-3",
+      "freelancerId": "fl-4",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&auto=format&fit=crop&q=80",
+      "freelancerRating": 4.97,
+      "category": "IT & Software Development",
+      "categorySlug": "it-software",
+      "title": "I will build a custom AI agent & RAG pipeline with LangChain",
+      "slug": "build-custom-ai-agent-rag-pipeline",
+      "description": "Integrate generative AI into your business. Custom RAG vector retrieval, LLM agents, and FastAPI microservices for document parsing and intelligent search.",
+      "coverImageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=80",
+      "startingPrice": 600,
+      "deliveryDays": 5,
+      "rating": 4.98,
+      "reviewCount": 19,
+      "salesCount": 23,
+      "packages": [
+        {
+          "tier": "BASIC",
+          "name": "LLM Wrapper API",
+          "price": 600,
+          "deliveryDays": 4,
+          "revisions": 2,
+          "features": [
+            "OpenAI API Integration",
+            "Prompt Engineering",
+            "FastAPI Endpoint",
+            "Basic Error Handling"
+          ]
+        },
+        {
+          "tier": "STANDARD",
+          "name": "RAG Vector Pipeline",
+          "price": 1200,
+          "deliveryDays": 8,
+          "revisions": 3,
+          "features": [
+            "Document Ingestion (PDF/CSV)",
+            "Vector Database Setup (Pinecone/pgvector)",
+            "LangChain Retrieval",
+            "Evaluation Suite"
+          ]
+        },
+        {
+          "tier": "PREMIUM",
+          "name": "Autonomous AI Agent",
+          "price": 2400,
+          "deliveryDays": 16,
+          "revisions": 5,
+          "features": [
+            "Multi-tool Calling Agent",
+            "Custom Memory & Session Store",
+            "Streaming UI Integration",
+            "Docker Containerization",
+            "Full Production Deployment"
+          ]
+        }
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job-1788785587272",
+      "clientProfileId": "cl-1788773106089",
+      "clientName": "Sarah Connor",
+      "clientCompany": "Skyline AI Systems",
+      "clientCountry": "United States",
+      "clientRating": 5,
+      "clientTotalSpent": 0,
+      "category": "IT & Software Development",
+      "categorySlug": "it-software",
+      "title": "Autonomous LLM Code Reviewer Agent for Enterprise CI/CD",
+      "slug": "autonomous-llm-code-reviewer-agent-for-enterprise-ci-cd-7272",
+      "description": "We are seeking a senior AI engineer to build a multi-model code review agent using LangChain, Claude, and GitHub Webhooks with custom vulnerability scanning.",
+      "budgetType": "FIXED",
+      "budgetMin": 3000,
+      "budgetMax": 6000,
+      "experienceLevel": "INTERMEDIATE",
+      "durationWeeks": 4,
+      "status": "PUBLISHED",
+      "proposalsCount": 0,
+      "isRemote": true,
+      "skills": [
+        "Python",
+        "LangChain",
+        "Claude API",
+        "GitHub Actions"
+      ],
+      "postedAt": "Just now"
+    },
+    {
+      "id": "job-1788785578062",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompany": "Lumina Technologies Inc.",
+      "clientCountry": "United States",
+      "clientRating": 4.96,
+      "clientTotalSpent": 128000,
+      "category": "Web & Full-Stack Development",
+      "categorySlug": "it-software",
+      "title": "Lead Next.js Architect for High-Throughput Portal",
+      "slug": "lead-next-js-architect-for-high-throughput-portal-8063",
+      "description": "Seeking expert Next.js engineer with deep understanding of server components and real-time streaming.",
+      "budgetType": "FIXED",
+      "budgetMin": 5000,
+      "budgetMax": 6500,
+      "experienceLevel": "EXPERT",
+      "durationWeeks": 4,
+      "status": "PUBLISHED",
+      "proposalsCount": 1,
+      "isRemote": true,
+      "skills": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "postedAt": "Just now"
+    },
+    {
+      "id": "job-1788780664949",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompany": "Lumina Technologies Inc.",
+      "clientCountry": "United States",
+      "clientRating": 4.96,
+      "clientTotalSpent": 128000,
+      "category": "Web & Full-Stack Development",
+      "categorySlug": "it-software",
+      "title": "Lead Next.js Architect for High-Throughput Portal",
+      "slug": "lead-next-js-architect-for-high-throughput-portal-4949",
+      "description": "Seeking expert Next.js engineer with deep understanding of server components and real-time streaming.",
+      "budgetType": "FIXED",
+      "budgetMin": 5000,
+      "budgetMax": 6500,
+      "experienceLevel": "EXPERT",
+      "durationWeeks": 4,
+      "status": "PUBLISHED",
+      "proposalsCount": 1,
+      "isRemote": true,
+      "skills": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "postedAt": "Just now"
+    },
+    {
+      "id": "job-1788779368136",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompany": "Lumina Technologies Inc.",
+      "clientCountry": "United States",
+      "clientRating": 4.96,
+      "clientTotalSpent": 128000,
+      "category": "Web & Full-Stack Development",
+      "categorySlug": "it-software",
+      "title": "Lead Next.js Architect for High-Throughput Portal",
+      "slug": "lead-next-js-architect-for-high-throughput-portal-8136",
+      "description": "Seeking expert Next.js engineer with deep understanding of server components and real-time streaming.",
+      "budgetType": "FIXED",
+      "budgetMin": 5000,
+      "budgetMax": 6500,
+      "experienceLevel": "EXPERT",
+      "durationWeeks": 4,
+      "status": "PUBLISHED",
+      "proposalsCount": 1,
+      "isRemote": true,
+      "skills": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "postedAt": "Just now"
+    },
+    {
+      "id": "job-1788779352961",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompany": "Lumina Technologies Inc.",
+      "clientCountry": "United States",
+      "clientRating": 4.96,
+      "clientTotalSpent": 128000,
+      "category": "Web & Full-Stack Development",
+      "categorySlug": "it-software",
+      "title": "Lead Next.js Architect for High-Throughput Portal",
+      "slug": "lead-next-js-architect-for-high-throughput-portal-2961",
+      "description": "Seeking expert Next.js engineer with deep understanding of server components and real-time streaming.",
+      "budgetType": "FIXED",
+      "budgetMin": 5000,
+      "budgetMax": 6500,
+      "experienceLevel": "EXPERT",
+      "durationWeeks": 4,
+      "status": "PUBLISHED",
+      "proposalsCount": 1,
+      "isRemote": true,
+      "skills": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "postedAt": "Just now"
+    },
+    {
+      "id": "job-1788779339635",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompany": "Lumina Technologies Inc.",
+      "clientCountry": "United States",
+      "clientRating": 4.96,
+      "clientTotalSpent": 128000,
+      "category": "Web & Full-Stack Development",
+      "categorySlug": "it-software",
+      "title": "Lead Next.js Architect for High-Throughput Portal",
+      "slug": "lead-next-js-architect-for-high-throughput-portal-9636",
+      "description": "Seeking expert Next.js engineer with deep understanding of server components and real-time streaming.",
+      "budgetType": "FIXED",
+      "budgetMin": 5000,
+      "budgetMax": 6500,
+      "experienceLevel": "EXPERT",
+      "durationWeeks": 4,
+      "status": "PUBLISHED",
+      "proposalsCount": 0,
+      "isRemote": true,
+      "skills": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "postedAt": "Just now"
+    },
+    {
+      "id": "job-1788774181396",
+      "clientProfileId": "cl-1788773106089",
+      "clientName": "Sarah Connor",
+      "clientCompany": "Skyline AI Systems",
+      "clientCountry": "United States",
+      "clientRating": 5,
+      "clientTotalSpent": 0,
+      "category": "IT & Software Development",
+      "categorySlug": "it-software",
+      "title": "Autonomous LLM Code Reviewer Agent for Enterprise CI/CD",
+      "slug": "autonomous-llm-code-reviewer-agent-for-enterprise-ci-cd-1396",
+      "description": "We are seeking a senior AI engineer to build a multi-model code review agent using LangChain, Claude, and GitHub Webhooks with custom vulnerability scanning.",
+      "budgetType": "FIXED",
+      "budgetMin": 3000,
+      "budgetMax": 6000,
+      "experienceLevel": "INTERMEDIATE",
+      "durationWeeks": 4,
+      "status": "PUBLISHED",
+      "proposalsCount": 0,
+      "isRemote": true,
+      "skills": [
+        "Python",
+        "LangChain",
+        "Claude API",
+        "GitHub Actions"
+      ],
+      "postedAt": "Just now"
+    },
+    {
+      "id": "job-1",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompany": "Lumina Technologies",
+      "clientCountry": "United States",
+      "clientRating": 4.96,
+      "clientTotalSpent": 128000,
+      "category": "IT & Software Development",
+      "categorySlug": "it-software",
+      "title": "Build Real-Time Collaboration & Analytics Portal for B2B Clients",
+      "slug": "build-real-time-collaboration-analytics-portal",
+      "description": "We are seeking a senior full-stack engineer to architect a high-performance analytics portal. Must be proficient in Next.js 15, TypeScript, Tailwind CSS, PostgreSQL, and scalable API design. Deliverables include client dashboard, role permissions, and export capabilities.",
+      "budgetType": "FIXED",
+      "budgetMin": 3500,
+      "budgetMax": 5000,
+      "experienceLevel": "EXPERT",
+      "durationWeeks": 6,
+      "status": "PUBLISHED",
+      "proposalsCount": 14,
+      "isRemote": true,
+      "skills": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "Tailwind CSS"
+      ],
+      "postedAt": "2 hours ago"
+    },
+    {
+      "id": "job-2",
+      "clientProfileId": "cl-2",
+      "clientName": "Claire Beauchamp",
+      "clientCompany": "Nexus Health",
+      "clientCountry": "Canada",
+      "clientRating": 5,
+      "clientTotalSpent": 74500,
+      "category": "Design & Creative",
+      "categorySlug": "design-creative",
+      "title": "Complete Mobile & Web App Redesign for Patient Telehealth Platform",
+      "slug": "telehealth-patient-app-redesign",
+      "description": "Looking for an exceptional product designer to redesign our patient-facing telehealth experience. Requires comprehensive Figma design system, accessible components (WCAG AA), and interactive prototypes for iOS, Android, and web.",
+      "budgetType": "HOURLY",
+      "budgetMin": 80,
+      "budgetMax": 110,
+      "experienceLevel": "EXPERT",
+      "durationWeeks": 8,
+      "status": "IN_PROGRESS",
+      "proposalsCount": 9,
+      "isRemote": true,
+      "skills": [
+        "Figma",
+        "UI Design",
+        "UX Research",
+        "Design Systems",
+        "Prototyping"
+      ],
+      "postedAt": "5 hours ago"
+    },
+    {
+      "id": "job-3",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompany": "Lumina Technologies",
+      "clientCountry": "United States",
+      "clientRating": 4.96,
+      "clientTotalSpent": 128000,
+      "category": "IT & Software Development",
+      "categorySlug": "it-software",
+      "title": "AWS Kubernetes Infrastructure Setup & Zero-Downtime CI/CD Pipeline",
+      "slug": "aws-kubernetes-infrastructure-setup-cicd",
+      "description": "We need an AWS DevOps expert to migrate our Dockerized microservices to AWS EKS with Terraform IaC, automated GitHub Actions CI/CD, SSL termination, and Datadog monitoring integration.",
+      "budgetType": "FIXED",
+      "budgetMin": 2500,
+      "budgetMax": 4000,
+      "experienceLevel": "EXPERT",
+      "durationWeeks": 4,
+      "status": "PUBLISHED",
+      "proposalsCount": 7,
+      "isRemote": true,
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Linux Admin"
+      ],
+      "postedAt": "1 day ago"
+    }
+  ],
+  "contracts": [
+    {
+      "id": "ctr-1788785705244",
+      "jobTitle": "Full E-Commerce Microfrontend Architecture",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "totalAmount": 3200,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788785705244-1",
+          "title": "Initial Project Deliverable",
+          "amount": 3200,
+          "status": "FUNDED",
+          "deliverableNote": "Architect scalable microfrontends for global retail expansion."
+        }
+      ],
+      "createdAt": "2026-09-07T12:55:05.244Z"
+    },
+    {
+      "id": "ctr-1788785630674",
+      "jobTitle": "Custom LLM Orchestration Service & API Gateway",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788785630674-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Production-grade microservices for LLM orchestration and streaming tool execution."
+        }
+      ],
+      "createdAt": "2026-09-07T12:53:50.674Z"
+    },
+    {
+      "id": "ctr-1788785606534",
+      "jobTitle": "Custom LLM Orchestration Service & API Gateway",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788785606534-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Production-grade microservices for LLM orchestration and streaming tool execution."
+        }
+      ],
+      "createdAt": "2026-09-07T12:53:26.534Z"
+    },
+    {
+      "id": "ctr-1788785587370",
+      "jobId": "job-2",
+      "jobTitle": "Complete Mobile & Web App Redesign for Patient Telehealth Platform",
+      "clientProfileId": "cl-2",
+      "clientName": "Claire Beauchamp (Nexus Health Systems)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Marcus Vance",
+      "totalAmount": 4200,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788785587370-1",
+          "title": "Initial Milestone Deliverable",
+          "amount": 4200,
+          "status": "FUNDED",
+          "deliverableNote": "Contract established through accepted proposal. Escrow locked."
+        }
+      ],
+      "createdAt": "2026-09-07T12:53:07.370Z"
+    },
+    {
+      "id": "ctr-1788785578002",
+      "jobTitle": "Full-Stack Security Audit & Zero-Trust Hardening",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788785578002-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Comprehensive security testing and dual-custody escrow funded engagement."
+        }
+      ],
+      "createdAt": "2026-09-07T12:52:58.002Z"
+    },
+    {
+      "id": "ctr-1788784283327",
+      "jobTitle": "AI Project",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "totalAmount": 1500,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788784283327-1",
+          "title": "Initial Project Deliverable",
+          "amount": 1500,
+          "status": "FUNDED",
+          "deliverableNote": "AI"
+        }
+      ],
+      "createdAt": "2026-09-07T12:31:23.327Z"
+    },
+    {
+      "id": "ctr-1788780664882",
+      "jobTitle": "Full-Stack Security Audit & Zero-Trust Hardening",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788780664882-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Comprehensive security testing and dual-custody escrow funded engagement."
+        }
+      ],
+      "createdAt": "2026-09-07T11:31:04.882Z"
+    },
+    {
+      "id": "ctr-1788779368121",
+      "jobTitle": "Full-Stack Security Audit & Zero-Trust Hardening",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788779368121-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Comprehensive security testing and dual-custody escrow funded engagement."
+        }
+      ],
+      "createdAt": "2026-09-07T11:09:28.121Z"
+    },
+    {
+      "id": "ctr-1788779352948",
+      "jobTitle": "Full-Stack Security Audit & Zero-Trust Hardening",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788779352948-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Comprehensive security testing and dual-custody escrow funded engagement."
+        }
+      ],
+      "createdAt": "2026-09-07T11:09:12.948Z"
+    },
+    {
+      "id": "ctr-1788779339614",
+      "jobTitle": "Full-Stack Security Audit & Zero-Trust Hardening",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788779339614-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Comprehensive security testing and dual-custody escrow funded engagement."
+        }
+      ],
+      "createdAt": "2026-09-07T11:08:59.614Z"
+    },
+    {
+      "id": "ctr-1788779271949",
+      "jobTitle": "Full-Stack Security Audit & Zero-Trust Hardening",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788779271949-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Comprehensive security testing and dual-custody escrow funded engagement."
+        }
+      ],
+      "createdAt": "2026-09-07T11:07:51.949Z"
+    },
+    {
+      "id": "ctr-1788778252807",
+      "jobTitle": "Full E-Commerce Microfrontend Architecture",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "totalAmount": 3200,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788778252807-1",
+          "title": "Initial Project Deliverable",
+          "amount": 3200,
+          "status": "FUNDED",
+          "deliverableNote": "Architect scalable microfrontends for global retail expansion."
+        }
+      ],
+      "createdAt": "2026-09-07T10:50:52.807Z"
+    },
+    {
+      "id": "ctr-1788776269033",
+      "jobTitle": "Custom LLM Orchestration Service & API Gateway",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788776269033-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Production-grade microservices for LLM orchestration and streaming tool execution."
+        }
+      ],
+      "createdAt": "2026-09-07T10:17:49.033Z"
+    },
+    {
+      "id": "ctr-1788776149205",
+      "jobTitle": "Custom LLM Orchestration Service & API Gateway",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788776149205-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Production-grade microservices for LLM orchestration and streaming tool execution."
+        }
+      ],
+      "createdAt": "2026-09-07T10:15:49.205Z"
+    },
+    {
+      "id": "ctr-1788775870159",
+      "jobTitle": "Custom LLM Orchestration Service & API Gateway",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Technologies Inc.)",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "totalAmount": 2800,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788775870159-1",
+          "title": "Initial Project Deliverable",
+          "amount": 2800,
+          "status": "FUNDED",
+          "deliverableNote": "Production-grade microservices for LLM orchestration and streaming tool execution."
+        }
+      ],
+      "createdAt": "2026-09-07T10:11:10.159Z"
+    },
+    {
+      "id": "ctr-1788774182412",
+      "jobId": "job-2",
+      "jobTitle": "Complete Mobile & Web App Redesign for Patient Telehealth Platform",
+      "clientProfileId": "cl-2",
+      "clientName": "Claire Beauchamp (Nexus Health Systems)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Marcus Vance",
+      "totalAmount": 4200,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1788774182412-1",
+          "title": "Initial Milestone Deliverable",
+          "amount": 4200,
+          "status": "FUNDED",
+          "deliverableNote": "Contract established through accepted proposal. Escrow locked."
+        }
+      ],
+      "createdAt": "2026-09-07T09:43:02.412Z"
+    },
+    {
+      "id": "ctr-1",
+      "jobId": "job-3",
+      "jobTitle": "AWS Kubernetes Infrastructure Setup & Zero-Downtime CI/CD",
+      "clientProfileId": "cl-1",
+      "clientName": "David Sterling (Lumina Tech)",
+      "freelancerId": "fl-3",
+      "freelancerName": "Devon Vance",
+      "totalAmount": 3500,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-1",
+          "title": "Terraform EKS Cluster & VPC Setup",
+          "amount": 1500,
+          "status": "APPROVED",
+          "deliverableNote": "Cluster deployed with Terraform state in S3."
+        },
+        {
+          "id": "m-2",
+          "title": "GitHub Actions CI/CD Pipeline",
+          "amount": 1000,
+          "status": "FUNDED"
+        },
+        {
+          "id": "m-3",
+          "title": "Datadog Monitoring & Final Handover",
+          "amount": 1000,
+          "status": "PENDING"
+        }
+      ],
+      "createdAt": "2026-09-04T08:10:26.837Z"
+    },
+    {
+      "id": "ctr-2",
+      "jobId": "job-2",
+      "jobTitle": "Complete Mobile & Web App Redesign for Patient Telehealth Platform",
+      "clientProfileId": "cl-2",
+      "clientName": "Claire Beauchamp (Nexus Health Systems)",
+      "freelancerId": "fl-2",
+      "freelancerName": "Marcus Vance",
+      "totalAmount": 4200,
+      "status": "ACTIVE",
+      "milestones": [
+        {
+          "id": "m-201",
+          "title": "WCAG AA Patient Journey & Wireframes",
+          "amount": 1400,
+          "status": "APPROVED",
+          "deliverableNote": "Complete wireframes in Figma with stakeholder sign-off."
+        },
+        {
+          "id": "m-202",
+          "title": "Figma Design System Tokens & Mobile Screens",
+          "amount": 1400,
+          "status": "FUNDED",
+          "deliverableNote": "Tokens exported and mobile screens ready for developer inspection."
+        },
+        {
+          "id": "m-203",
+          "title": "Interactive Prototype & Web Hand-off",
+          "amount": 1400,
+          "status": "PENDING"
+        }
+      ],
+      "createdAt": "2026-09-05T12:00:00.000Z"
+    }
+  ],
+  "proposals": [
+    {
+      "id": "prop-1788785578090",
+      "jobId": "job-1788785578062",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "coverLetter": "Extensive experience delivering resilient Next.js architectures with production-proven SLAs.",
+      "bidAmount": 6200,
+      "deliveryDays": 21,
+      "status": "SUBMITTED",
+      "createdAt": "Just now"
+    },
+    {
+      "id": "prop-1788780665025",
+      "jobId": "job-1788780664949",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "coverLetter": "Extensive experience delivering resilient Next.js architectures with production-proven SLAs.",
+      "bidAmount": 6200,
+      "deliveryDays": 21,
+      "status": "SUBMITTED",
+      "createdAt": "Just now"
+    },
+    {
+      "id": "prop-1788779368161",
+      "jobId": "job-1788779368136",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "coverLetter": "Extensive experience delivering resilient Next.js architectures with production-proven SLAs.",
+      "bidAmount": 6200,
+      "deliveryDays": 21,
+      "status": "SUBMITTED",
+      "createdAt": "Just now"
+    },
+    {
+      "id": "prop-1788779352993",
+      "jobId": "job-1788779352961",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "coverLetter": "Extensive experience delivering resilient Next.js architectures with production-proven SLAs.",
+      "bidAmount": 6200,
+      "deliveryDays": 21,
+      "status": "SUBMITTED",
+      "createdAt": "Just now"
+    },
+    {
+      "id": "prop-1",
+      "jobId": "job-1",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "coverLetter": "Hi David, I have built 4 enterprise analytics portals using Next.js 15 App Router and PostgreSQL. I can deliver a clean, tokenized architecture with 100% test coverage within 4 weeks.",
+      "bidAmount": 4500,
+      "deliveryDays": 28,
+      "status": "SUBMITTED",
+      "createdAt": "1 hour ago"
+    },
+    {
+      "id": "prop-2",
+      "jobId": "job-2",
+      "freelancerId": "fl-2",
+      "freelancerName": "Marcus Vance",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "coverLetter": "Hi Claire, I specialize in healthcare and telehealth UI/UX design compliant with HIPAA & WCAG AA standards. I have redesigned 6 healthcare mobile and web apps with glowing user feedback.",
+      "bidAmount": 4200,
+      "deliveryDays": 35,
+      "status": "ACCEPTED",
+      "createdAt": "3 hours ago"
+    },
+    {
+      "id": "prop-3",
+      "jobId": "job-2",
+      "freelancerId": "fl-4",
+      "freelancerName": "Priya Sharma",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&auto=format&fit=crop&q=80",
+      "coverLetter": "I can create an accessible Figma design system for Nexus Health with interactive prototypes and patient-centric navigation workflows.",
+      "bidAmount": 3800,
+      "deliveryDays": 30,
+      "status": "SUBMITTED",
+      "createdAt": "5 hours ago"
+    },
+    {
+      "id": "prop-4",
+      "jobId": "job-3",
+      "freelancerId": "fl-3",
+      "freelancerName": "Devon Vance",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80",
+      "coverLetter": "Senior AWS Certified DevOps Architect. I will migrate your services to EKS with Terraform and zero-downtime blue/green deployment.",
+      "bidAmount": 3500,
+      "deliveryDays": 21,
+      "status": "ACCEPTED",
+      "createdAt": "1 day ago"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-1788785716161",
+      "actor": "sec.admin.1788785714@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1788785715570",
+      "details": "User sec.admin.1788785714@apexlance.io signed into ADMIN portal.",
+      "timestamp": "2026-09-07T12:55:16.161Z"
+    },
+    {
+      "id": "aud-1788785715860",
+      "actor": "sec.admin.1788785714@apexlance.io",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-admin-1788785715570",
+      "details": "New account registered as ADMIN for Security Operations 1788785714 (sec.admin.1788785714@apexlance.io)",
+      "timestamp": "2026-09-07T12:55:15.860Z"
+    },
+    {
+      "id": "aud-1788785715557",
+      "actor": "lead.dev.1788785714@apexarchitects.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-freelancer-1788785714977",
+      "details": "User lead.dev.1788785714@apexarchitects.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:55:15.557Z"
+    },
+    {
+      "id": "aud-1788785715262",
+      "actor": "lead.dev.1788785714@apexarchitects.io",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-freelancer-1788785714977",
+      "details": "New account registered as FREELANCER for Marcus Lead 1788785714 (lead.dev.1788785714@apexarchitects.io)",
+      "timestamp": "2026-09-07T12:55:15.262Z"
+    },
+    {
+      "id": "aud-1788785714967",
+      "actor": "client.enterprise.1788785714@novacorp.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788785714357",
+      "details": "User client.enterprise.1788785714@novacorp.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:55:14.967Z"
+    },
+    {
+      "id": "aud-1788785714645",
+      "actor": "client.enterprise.1788785714@novacorp.com",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-client-1788785714357",
+      "details": "New account registered as CLIENT for Nova Enterprise 1788785714 (client.enterprise.1788785714@novacorp.com)",
+      "timestamp": "2026-09-07T12:55:14.645Z"
+    },
+    {
+      "id": "aud-1788785713455",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into ADMIN portal.",
+      "timestamp": "2026-09-07T12:55:13.455Z"
+    },
+    {
+      "id": "aud-1788785713160",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:55:13.160Z"
+    },
+    {
+      "id": "aud-1788785712858",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:55:12.858Z"
+    },
+    {
+      "id": "aud-1788785705246",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788785705244",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Elena Rostova for $3200. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T12:55:05.246Z"
+    },
+    {
+      "id": "aud-1788785696892",
+      "actor": "elena.rostova.1788785695@devhub.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-freelancer-1788785696298",
+      "details": "User elena.rostova.1788785695@devhub.tech signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:54:56.892Z"
+    },
+    {
+      "id": "aud-1788785696592",
+      "actor": "elena.rostova.1788785695@devhub.tech",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-freelancer-1788785696298",
+      "details": "New account registered as FREELANCER for Elena Rostova (elena.rostova.1788785695@devhub.tech)",
+      "timestamp": "2026-09-07T12:54:56.592Z"
+    },
+    {
+      "id": "aud-1788785696282",
+      "actor": "sarah.connor.1788785695@skyline-ai.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788785695649",
+      "details": "User sarah.connor.1788785695@skyline-ai.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:54:56.282Z"
+    },
+    {
+      "id": "aud-1788785695958",
+      "actor": "sarah.connor.1788785695@skyline-ai.com",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-client-1788785695649",
+      "details": "New account registered as CLIENT for Sarah Connor (sarah.connor.1788785695@skyline-ai.com)",
+      "timestamp": "2026-09-07T12:54:55.958Z"
+    },
+    {
+      "id": "aud-1788785695001",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:54:55.001Z"
+    },
+    {
+      "id": "aud-1788785694693",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:54:54.693Z"
+    },
+    {
+      "id": "aud-1788785694386",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into ADMIN portal.",
+      "timestamp": "2026-09-07T12:54:54.386Z"
+    },
+    {
+      "id": "aud-1788785656889",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:54:16.889Z"
+    },
+    {
+      "id": "aud-1788785656584",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:54:16.584Z"
+    },
+    {
+      "id": "aud-1788785656255",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into ADMIN portal.",
+      "timestamp": "2026-09-07T12:54:16.255Z"
+    },
+    {
+      "id": "aud-1788785639374",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into SUPER_ADMIN portal.",
+      "timestamp": "2026-09-07T12:53:59.374Z"
+    },
+    {
+      "id": "aud-1788785638911",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:53:58.911Z"
+    },
+    {
+      "id": "aud-1788785638252",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:53:58.252Z"
+    },
+    {
+      "id": "aud-1788785630675",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788785630674",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Alex Chen for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T12:53:50.675Z"
+    },
+    {
+      "id": "aud-1788785606535",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788785606534",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Alex Chen for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T12:53:26.535Z"
+    },
+    {
+      "id": "aud-1788785594465",
+      "actor": "admin@apexlance.io",
+      "action": "COMMISSION_UPDATED",
+      "entity": "Settings",
+      "entityId": "platformCommissionPercentage",
+      "details": "Administrator updated platform commission to 12%",
+      "timestamp": "2026-09-07T12:53:14.465Z"
+    },
+    {
+      "id": "aud-1788785594409",
+      "actor": "admin@apexlance.io",
+      "action": "USER_STATUS_ACTIVE",
+      "entity": "User",
+      "entityId": "user-admin-1788773328795",
+      "details": "Administrator updated status of user sec.admin.1788773327@apexlance.io to ACTIVE",
+      "timestamp": "2026-09-07T12:53:14.409Z"
+    },
+    {
+      "id": "aud-1788785594395",
+      "actor": "admin@apexlance.io",
+      "action": "USER_STATUS_SUSPENDED",
+      "entity": "User",
+      "entityId": "user-admin-1788773328795",
+      "details": "Administrator updated status of user sec.admin.1788773327@apexlance.io to SUSPENDED",
+      "timestamp": "2026-09-07T12:53:14.395Z"
+    },
+    {
+      "id": "aud-1788785594368",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into SUPER_ADMIN portal.",
+      "timestamp": "2026-09-07T12:53:14.368Z"
+    },
+    {
+      "id": "aud-1788785587435",
+      "actor": "Claire Beauchamp",
+      "action": "CLIENT_PROFILE_UPDATED",
+      "entity": "ClientProfile",
+      "entityId": "cl-2",
+      "details": "Claire Beauchamp updated enterprise profile details for Nexus Global Healthcare Inc.",
+      "timestamp": "2026-09-07T12:53:07.435Z"
+    },
+    {
+      "id": "aud-1788785587370",
+      "actor": "Claire Beauchamp",
+      "action": "PROPOSAL_ACCEPTED_CONTRACT_CREATED",
+      "entity": "Contract",
+      "entityId": "ctr-1788785587370",
+      "details": "Claire Beauchamp accepted Marcus Vance's proposal of $4200. Contract ctr-1788785587370 initialized with funded escrow.",
+      "timestamp": "2026-09-07T12:53:07.370Z"
+    },
+    {
+      "id": "aud-1788785587272",
+      "actor": "sarah.connor@skyline-ai.com",
+      "action": "JOB_CREATED",
+      "entity": "Job",
+      "entityId": "job-1788785587272",
+      "details": "Sarah Connor (Skyline AI Systems) posted project: \"Autonomous LLM Code Reviewer Agent for Enterprise CI/CD\" with budget $3000 - $6000",
+      "timestamp": "2026-09-07T12:53:07.273Z"
+    },
+    {
+      "id": "aud-1788785587257",
+      "actor": "sarah.connor@skyline-ai.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788773105705",
+      "details": "User sarah.connor@skyline-ai.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:53:07.257Z"
+    },
+    {
+      "id": "aud-1788785586928",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:53:06.928Z"
+    },
+    {
+      "id": "aud-1788785578090",
+      "actor": "Alex Chen",
+      "action": "PROPOSAL_SUBMITTED",
+      "entity": "Proposal",
+      "entityId": "prop-1788785578090",
+      "details": "Alex Chen submitted proposal for job job-1788785578062 with bid $6200",
+      "timestamp": "2026-09-07T12:52:58.090Z"
+    },
+    {
+      "id": "aud-1788785578063",
+      "actor": "david.sterling@lumina.tech",
+      "action": "JOB_CREATED",
+      "entity": "Job",
+      "entityId": "job-1788785578062",
+      "details": "David Sterling (Lumina Technologies Inc.) posted project: \"Lead Next.js Architect for High-Throughput Portal\" with budget $5000 - $6500",
+      "timestamp": "2026-09-07T12:52:58.063Z"
+    },
+    {
+      "id": "aud-1788785578003",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788785578002",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Elena Rostova for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T12:52:58.003Z"
+    },
+    {
+      "id": "aud-1788785569572",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into SUPER_ADMIN portal.",
+      "timestamp": "2026-09-07T12:52:49.572Z"
+    },
+    {
+      "id": "aud-1788785569121",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:52:49.121Z"
+    },
+    {
+      "id": "aud-1788785568694",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:52:48.694Z"
+    },
+    {
+      "id": "aud-1788785481356",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into SUPER_ADMIN portal.",
+      "timestamp": "2026-09-07T12:51:21.356Z"
+    },
+    {
+      "id": "aud-1788785480809",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:51:20.809Z"
+    },
+    {
+      "id": "aud-1788785480350",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:51:20.350Z"
+    },
+    {
+      "id": "aud-1788785437385",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into SUPER_ADMIN portal.",
+      "timestamp": "2026-09-07T12:50:37.385Z"
+    },
+    {
+      "id": "aud-1788785436810",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:50:36.810Z"
+    },
+    {
+      "id": "aud-1788785436108",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:50:36.108Z"
+    },
+    {
+      "id": "aud-1788785377867",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:49:37.867Z"
+    },
+    {
+      "id": "aud-1788784417444",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:33:37.445Z"
+    },
+    {
+      "id": "aud-1788784370170",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:32:50.170Z"
+    },
+    {
+      "id": "aud-1788784297230",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T12:31:37.230Z"
+    },
+    {
+      "id": "aud-1788784283328",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788784283327",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Alex Chen for $1500. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T12:31:23.328Z"
+    },
+    {
+      "id": "aud-1788784246563",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T12:30:46.563Z"
+    },
+    {
+      "id": "aud-1788784175104",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into ADMIN portal.",
+      "timestamp": "2026-09-07T12:29:35.104Z"
+    },
+    {
+      "id": "aud-1788781849973",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T11:50:49.973Z"
+    },
+    {
+      "id": "aud-1788781176655",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T11:39:36.655Z"
+    },
+    {
+      "id": "aud-1788781176204",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T11:39:36.204Z"
+    },
+    {
+      "id": "aud-1788780665025",
+      "actor": "Alex Chen",
+      "action": "PROPOSAL_SUBMITTED",
+      "entity": "Proposal",
+      "entityId": "prop-1788780665025",
+      "details": "Alex Chen submitted proposal for job job-1788780664949 with bid $6200",
+      "timestamp": "2026-09-07T11:31:05.025Z"
+    },
+    {
+      "id": "aud-1788780664949",
+      "actor": "david.sterling@lumina.tech",
+      "action": "JOB_CREATED",
+      "entity": "Job",
+      "entityId": "job-1788780664949",
+      "details": "David Sterling (Lumina Technologies Inc.) posted project: \"Lead Next.js Architect for High-Throughput Portal\" with budget $5000 - $6500",
+      "timestamp": "2026-09-07T11:31:04.949Z"
+    },
+    {
+      "id": "aud-1788780664883",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788780664882",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Elena Rostova for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T11:31:04.883Z"
+    },
+    {
+      "id": "aud-1788779531770",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T11:12:11.770Z"
+    },
+    {
+      "id": "aud-1788779468407",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T11:11:08.407Z"
+    },
+    {
+      "id": "aud-1788779368161",
+      "actor": "Alex Chen",
+      "action": "PROPOSAL_SUBMITTED",
+      "entity": "Proposal",
+      "entityId": "prop-1788779368161",
+      "details": "Alex Chen submitted proposal for job job-1788779368136 with bid $6200",
+      "timestamp": "2026-09-07T11:09:28.161Z"
+    },
+    {
+      "id": "aud-1788779368136",
+      "actor": "david.sterling@lumina.tech",
+      "action": "JOB_CREATED",
+      "entity": "Job",
+      "entityId": "job-1788779368136",
+      "details": "David Sterling (Lumina Technologies Inc.) posted project: \"Lead Next.js Architect for High-Throughput Portal\" with budget $5000 - $6500",
+      "timestamp": "2026-09-07T11:09:28.136Z"
+    },
+    {
+      "id": "aud-1788779368121",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788779368121",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Elena Rostova for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T11:09:28.121Z"
+    },
+    {
+      "id": "aud-1788779352993",
+      "actor": "Alex Chen",
+      "action": "PROPOSAL_SUBMITTED",
+      "entity": "Proposal",
+      "entityId": "prop-1788779352993",
+      "details": "Alex Chen submitted proposal for job job-1788779352961 with bid $6200",
+      "timestamp": "2026-09-07T11:09:12.993Z"
+    },
+    {
+      "id": "aud-1788779352961",
+      "actor": "david.sterling@lumina.tech",
+      "action": "JOB_CREATED",
+      "entity": "Job",
+      "entityId": "job-1788779352961",
+      "details": "David Sterling (Lumina Technologies Inc.) posted project: \"Lead Next.js Architect for High-Throughput Portal\" with budget $5000 - $6500",
+      "timestamp": "2026-09-07T11:09:12.961Z"
+    },
+    {
+      "id": "aud-1788779352949",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788779352948",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Elena Rostova for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T11:09:12.949Z"
+    },
+    {
+      "id": "aud-1788779339636",
+      "actor": "david.sterling@lumina.tech",
+      "action": "JOB_CREATED",
+      "entity": "Job",
+      "entityId": "job-1788779339635",
+      "details": "David Sterling (Lumina Technologies Inc.) posted project: \"Lead Next.js Architect for High-Throughput Portal\" with budget $5000 - $6500",
+      "timestamp": "2026-09-07T11:08:59.636Z"
+    },
+    {
+      "id": "aud-1788779339616",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788779339614",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Elena Rostova for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T11:08:59.616Z"
+    },
+    {
+      "id": "aud-1788779271950",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788779271949",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Elena Rostova for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T11:07:51.950Z"
+    },
+    {
+      "id": "aud-1788778252808",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788778252807",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Elena Rostova for $3200. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T10:50:52.808Z"
+    },
+    {
+      "id": "aud-1788777845872",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T10:44:05.872Z"
+    },
+    {
+      "id": "aud-1788777760419",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T10:42:40.419Z"
+    },
+    {
+      "id": "aud-1788777240584",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T10:34:00.584Z"
+    },
+    {
+      "id": "aud-1788777149754",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T10:32:29.754Z"
+    },
+    {
+      "id": "aud-1788777054600",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T10:30:54.600Z"
+    },
+    {
+      "id": "aud-1788776269034",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788776269033",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Alex Chen for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T10:17:49.034Z"
+    },
+    {
+      "id": "aud-1788776149207",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788776149205",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Alex Chen for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T10:15:49.207Z"
+    },
+    {
+      "id": "aud-1788775870166",
+      "actor": "David Sterling",
+      "action": "CLIENT_DIRECT_HIRE",
+      "entity": "Contract",
+      "entityId": "ctr-1788775870159",
+      "details": "David Sterling (Lumina Technologies Inc.) directly hired Alex Chen for $2800. Milestone 1 funded into escrow.",
+      "timestamp": "2026-09-07T10:11:10.166Z"
+    },
+    {
+      "id": "aud-1788774954492",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into ADMIN portal.",
+      "timestamp": "2026-09-07T09:55:54.492Z"
+    },
+    {
+      "id": "aud-1788774900436",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T09:55:00.436Z"
+    },
+    {
+      "id": "aud-1788774839533",
+      "actor": "abc@gmail.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788773502126",
+      "details": "User abc@gmail.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:53:59.533Z"
+    },
+    {
+      "id": "aud-1788774311364",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T09:45:11.364Z"
+    },
+    {
+      "id": "aud-1788774261299",
+      "actor": "abc@gmail.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788773502126",
+      "details": "User abc@gmail.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:44:21.300Z"
+    },
+    {
+      "id": "aud-1788774182592",
+      "actor": "Claire Beauchamp",
+      "action": "CLIENT_PROFILE_UPDATED",
+      "entity": "ClientProfile",
+      "entityId": "cl-2",
+      "details": "Claire Beauchamp updated enterprise profile details for Nexus Global Healthcare Inc.",
+      "timestamp": "2026-09-07T09:43:02.592Z"
+    },
+    {
+      "id": "aud-1788774182412",
+      "actor": "Claire Beauchamp",
+      "action": "PROPOSAL_ACCEPTED_CONTRACT_CREATED",
+      "entity": "Contract",
+      "entityId": "ctr-1788774182412",
+      "details": "Claire Beauchamp accepted Marcus Vance's proposal of $4200. Contract ctr-1788774182412 initialized with funded escrow.",
+      "timestamp": "2026-09-07T09:43:02.412Z"
+    },
+    {
+      "id": "aud-1788774181396",
+      "actor": "sarah.connor@skyline-ai.com",
+      "action": "JOB_CREATED",
+      "entity": "Job",
+      "entityId": "job-1788774181396",
+      "details": "Sarah Connor (Skyline AI Systems) posted project: \"Autonomous LLM Code Reviewer Agent for Enterprise CI/CD\" with budget $3000 - $6000",
+      "timestamp": "2026-09-07T09:43:01.396Z"
+    },
+    {
+      "id": "aud-1788774181171",
+      "actor": "sarah.connor@skyline-ai.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788773105705",
+      "details": "User sarah.connor@skyline-ai.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:43:01.171Z"
+    },
+    {
+      "id": "aud-1788774180530",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:43:00.530Z"
+    },
+    {
+      "id": "aud-1788773628117",
+      "actor": "abc@gmail.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788773502126",
+      "details": "User abc@gmail.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:33:48.117Z"
+    },
+    {
+      "id": "aud-1788773593722",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:33:13.722Z"
+    },
+    {
+      "id": "aud-1788773537974",
+      "actor": "abc@gmail.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788773502126",
+      "details": "User abc@gmail.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:32:17.974Z"
+    },
+    {
+      "id": "aud-1788773502583",
+      "actor": "abc@gmail.com",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-client-1788773502126",
+      "details": "New account registered as CLIENT for abc (abc@gmail.com)",
+      "timestamp": "2026-09-07T09:31:42.583Z"
+    },
+    {
+      "id": "aud-1788773329374",
+      "actor": "sec.admin.1788773327@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1788773328795",
+      "details": "User sec.admin.1788773327@apexlance.io signed into ADMIN portal.",
+      "timestamp": "2026-09-07T09:28:49.374Z"
+    },
+    {
+      "id": "aud-1788773329080",
+      "actor": "sec.admin.1788773327@apexlance.io",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-admin-1788773328795",
+      "details": "New account registered as ADMIN for Security Operations 1788773327 (sec.admin.1788773327@apexlance.io)",
+      "timestamp": "2026-09-07T09:28:49.080Z"
+    },
+    {
+      "id": "aud-1788773328787",
+      "actor": "lead.dev.1788773327@apexarchitects.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-freelancer-1788773328204",
+      "details": "User lead.dev.1788773327@apexarchitects.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T09:28:48.787Z"
+    },
+    {
+      "id": "aud-1788773328487",
+      "actor": "lead.dev.1788773327@apexarchitects.io",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-freelancer-1788773328204",
+      "details": "New account registered as FREELANCER for Marcus Lead 1788773327 (lead.dev.1788773327@apexarchitects.io)",
+      "timestamp": "2026-09-07T09:28:48.487Z"
+    },
+    {
+      "id": "aud-1788773328193",
+      "actor": "client.enterprise.1788773327@novacorp.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788773327589",
+      "details": "User client.enterprise.1788773327@novacorp.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:28:48.193Z"
+    },
+    {
+      "id": "aud-1788773327879",
+      "actor": "client.enterprise.1788773327@novacorp.com",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-client-1788773327589",
+      "details": "New account registered as CLIENT for Nova Enterprise 1788773327 (client.enterprise.1788773327@novacorp.com)",
+      "timestamp": "2026-09-07T09:28:47.879Z"
+    },
+    {
+      "id": "aud-1788773326687",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into ADMIN portal.",
+      "timestamp": "2026-09-07T09:28:46.687Z"
+    },
+    {
+      "id": "aud-1788773326392",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T09:28:46.392Z"
+    },
+    {
+      "id": "aud-1788773326094",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:28:46.094Z"
+    },
+    {
+      "id": "aud-1788773107019",
+      "actor": "elena.rostova@devhub.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-freelancer-1788773106429",
+      "details": "User elena.rostova@devhub.tech signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T09:25:07.019Z"
+    },
+    {
+      "id": "aud-1788773106734",
+      "actor": "elena.rostova@devhub.tech",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-freelancer-1788773106429",
+      "details": "New account registered as FREELANCER for Elena Rostova (elena.rostova@devhub.tech)",
+      "timestamp": "2026-09-07T09:25:06.734Z"
+    },
+    {
+      "id": "aud-1788773106420",
+      "actor": "sarah.connor@skyline-ai.com",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-client-1788773105705",
+      "details": "User sarah.connor@skyline-ai.com signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:25:06.420Z"
+    },
+    {
+      "id": "aud-1788773106089",
+      "actor": "sarah.connor@skyline-ai.com",
+      "action": "USER_REGISTERED",
+      "entity": "User",
+      "entityId": "user-client-1788773105705",
+      "details": "New account registered as CLIENT for Sarah Connor (sarah.connor@skyline-ai.com)",
+      "timestamp": "2026-09-07T09:25:06.089Z"
+    },
+    {
+      "id": "aud-1788773104907",
+      "actor": "alex.chen@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-fl-1",
+      "details": "User alex.chen@apexlance.io signed into FREELANCER portal.",
+      "timestamp": "2026-09-07T09:25:04.907Z"
+    },
+    {
+      "id": "aud-1788773104592",
+      "actor": "david.sterling@lumina.tech",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "User david.sterling@lumina.tech signed into CLIENT portal.",
+      "timestamp": "2026-09-07T09:25:04.592Z"
+    },
+    {
+      "id": "aud-1788773104219",
+      "actor": "admin@apexlance.io",
+      "action": "USER_LOGGED_IN",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "User admin@apexlance.io signed into ADMIN portal.",
+      "timestamp": "2026-09-07T09:25:04.219Z"
+    },
+    {
+      "id": "aud-1788769981896",
+      "actor": "David Sterling (Lumina Tech)",
+      "action": "ESCROW_RELEASED_TO_FREELANCER",
+      "entity": "Milestone",
+      "entityId": "m-3",
+      "details": "Milestone approved. $880 credited to Devon Vance, $120 platform fee deducted.",
+      "timestamp": "2026-09-07T08:33:01.896Z"
+    },
+    {
+      "id": "aud-1788769977164",
+      "actor": "David Sterling (Lumina Tech)",
+      "action": "ESCROW_MILESTONE_FUNDED",
+      "entity": "Milestone",
+      "entityId": "m-3",
+      "details": "Escrow funds of $1000 locked for milestone \"Datadog Monitoring & Final Handover\"",
+      "timestamp": "2026-09-07T08:32:57.164Z"
+    },
+    {
+      "id": "aud-1788769974437",
+      "actor": "David Sterling (Lumina Tech)",
+      "action": "ESCROW_RELEASED_TO_FREELANCER",
+      "entity": "Milestone",
+      "entityId": "m-2",
+      "details": "Milestone approved. $880 credited to Devon Vance, $120 platform fee deducted.",
+      "timestamp": "2026-09-07T08:32:54.437Z"
+    },
+    {
+      "id": "aud-1788769974395",
+      "actor": "David Sterling (Lumina Tech)",
+      "action": "ESCROW_RELEASED_TO_FREELANCER",
+      "entity": "Milestone",
+      "entityId": "m-2",
+      "details": "Milestone approved. $880 credited to Devon Vance, $120 platform fee deducted.",
+      "timestamp": "2026-09-07T08:32:54.395Z"
+    },
+    {
+      "id": "aud-1788768784613",
+      "actor": "admin@apexlance.io",
+      "action": "COMMISSION_UPDATED",
+      "entity": "Settings",
+      "entityId": "platformCommissionPercentage",
+      "details": "Administrator updated platform commission to 12%",
+      "timestamp": "2026-09-07T08:13:04.613Z"
+    },
+    {
+      "id": "aud-1788768784400",
+      "actor": "admin@apexlance.io",
+      "action": "USER_STATUS_ACTIVE",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "Administrator updated status of user david.sterling@lumina.tech to ACTIVE",
+      "timestamp": "2026-09-07T08:13:04.400Z"
+    },
+    {
+      "id": "aud-1788768784380",
+      "actor": "admin@apexlance.io",
+      "action": "USER_STATUS_SUSPENDED",
+      "entity": "User",
+      "entityId": "user-cl-1",
+      "details": "Administrator updated status of user david.sterling@lumina.tech to SUSPENDED",
+      "timestamp": "2026-09-07T08:13:04.380Z"
+    },
+    {
+      "id": "aud-bootstrap",
+      "actor": "system",
+      "action": "DATABASE_MIGRATION_SEEDED",
+      "entity": "Database",
+      "entityId": "postgres-cluster",
+      "details": "Database initialized with Admin User, Client, Freelancer, 12 Categories, and 500+ skills.",
+      "timestamp": "2026-09-07T08:10:26.838Z"
+    },
+    {
+      "id": "aud-admin-created",
+      "actor": "system",
+      "action": "ADMIN_USER_INITIALIZED",
+      "entity": "User",
+      "entityId": "user-admin-1",
+      "details": "Super Admin account initialized for admin@apexlance.io",
+      "timestamp": "2026-09-07T08:10:26.838Z"
+    }
+  ],
+  "settings": {
+    "platformCommissionPercentage": 12,
+    "appName": "ApexLance Marketplace",
+    "defaultCurrency": "USD"
+  },
+  "conversations": [
+    {
+      "id": "conv-1788784136955-244",
+      "clientId": "cl-2",
+      "clientName": "Claire Beauchamp",
+      "clientCompanyName": "Nexus Health Systems",
+      "clientAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&auto=format&fit=crop&q=80",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "freelancerTitle": "Senior Full-Stack & Next.js Architect",
+      "lastMessage": "hi",
+      "lastMessageAt": "2026-09-07T12:29:02.309Z",
+      "unreadCountClient": 1,
+      "unreadCountFreelancer": 0,
+      "createdAt": "2026-09-07T12:28:56.955Z"
+    },
+    {
+      "id": "conv-1788778252808-935",
+      "clientId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompanyName": "Lumina Technologies Inc.",
+      "clientAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+      "freelancerTitle": "Lead UI/UX & Product Designer",
+      "lastMessage": "🎉 Direct Hire Offer Accepted! Contract ctr-1788785705244 initialized for \"Full E-Commerce Microfrontend Architecture\" with $3200 funded in escrow.",
+      "lastMessageAt": "2026-09-07T12:55:05.246Z",
+      "unreadCountClient": 0,
+      "unreadCountFreelancer": 0,
+      "createdAt": "2026-09-07T10:50:52.808Z",
+      "contractId": "ctr-1788785705244"
+    },
+    {
+      "id": "conv-1788777787088-504",
+      "clientId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompanyName": "Lumina Technologies Inc.",
+      "clientAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "freelancerId": "fl-5",
+      "freelancerName": "Marcus Thorne",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80",
+      "freelancerTitle": "Fractional CFO & Financial Modeling Consultant",
+      "lastMessage": "Could you share your GitHub or code examples of similar scalable systems?",
+      "lastMessageAt": "2026-09-07T10:43:18.973Z",
+      "unreadCountClient": 0,
+      "unreadCountFreelancer": 1,
+      "createdAt": "2026-09-07T10:43:07.088Z"
+    },
+    {
+      "id": "conv-1788777659075-218",
+      "clientId": "cl-2",
+      "clientName": "Claire Beauchamp",
+      "clientCompanyName": "Nexus Health Systems",
+      "clientAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&auto=format&fit=crop&q=80",
+      "freelancerId": "fl-2",
+      "freelancerName": "Elena Rostova",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+      "freelancerTitle": "Lead UI/UX & Product Designer",
+      "lastMessage": "Hi Elena! Thanks for reaching out. We require HIPAA-compliant UI flows. When can we sync?",
+      "lastMessageAt": "2026-09-07T12:54:07.026Z",
+      "unreadCountClient": 2,
+      "unreadCountFreelancer": 0,
+      "createdAt": "2026-09-07T10:40:59.075Z"
+    },
+    {
+      "id": "conv-1788776149207",
+      "clientId": "cl-1",
+      "clientName": "David Sterling",
+      "clientCompanyName": "Lumina Technologies Inc.",
+      "clientAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "freelancerId": "fl-1",
+      "freelancerName": "Alex Chen",
+      "freelancerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "freelancerTitle": "Senior Full-Stack & Next.js Architect",
+      "lastMessage": "Privacy test confirmation timestamp: 1788785639010",
+      "lastMessageAt": "2026-09-07T12:53:59.024Z",
+      "unreadCountClient": 0,
+      "unreadCountFreelancer": 0,
+      "createdAt": "2026-09-07T10:15:49.207Z",
+      "contractId": "ctr-1788785630674"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1788775870166",
+      "conversationId": "conv-1788775870164",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788775870159 created for \"Custom LLM Orchestration Service & API Gateway\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": false,
+      "createdAt": "2026-09-07T10:11:10.166Z"
+    },
+    {
+      "id": "msg-1788776149207",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788776149205 created for \"Custom LLM Orchestration Service & API Gateway\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:15:49.207Z"
+    },
+    {
+      "id": "msg-1788776149498",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Hi Alex! Excited to work together. Have you received the architecture docs?",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:15:49.498Z"
+    },
+    {
+      "id": "msg-1788776149523",
+      "conversationId": "conv-1788776149207",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "Alex Chen",
+      "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "content": "Yes David! I've reviewed the specs and can start the initial milestone immediately.",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:15:49.523Z"
+    },
+    {
+      "id": "msg-1788776269034",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788776269033 created for \"Custom LLM Orchestration Service & API Gateway\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:17:49.034Z"
+    },
+    {
+      "id": "msg-1788776269070",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Hi Alex! Excited to work together. Have you received the architecture docs?",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:17:49.070Z"
+    },
+    {
+      "id": "msg-1788776269087",
+      "conversationId": "conv-1788776149207",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "Alex Chen",
+      "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "content": "Yes David! I've reviewed the specs and can start the initial milestone immediately.",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:17:49.087Z"
+    },
+    {
+      "id": "msg-1788777100269",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Hi! Are you available to start on an engineering project this week?",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:31:40.269Z"
+    },
+    {
+      "id": "msg-1788777659408",
+      "conversationId": "conv-1788777659075-218",
+      "senderId": "fl-2",
+      "senderRole": "FREELANCER",
+      "senderName": "Elena Rostova",
+      "senderAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+      "content": "Hello Claire! I saw Nexus Health's mobile app revamp project and would love to assist.",
+      "isRead": false,
+      "createdAt": "2026-09-07T10:40:59.408Z"
+    },
+    {
+      "id": "msg-1788777659441",
+      "conversationId": "conv-1788777659075-218",
+      "senderId": "cl-2",
+      "senderRole": "CLIENT",
+      "senderName": "Claire Beauchamp",
+      "senderAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&auto=format&fit=crop&q=80",
+      "content": "Hi Elena! Thanks for reaching out. We require HIPAA-compliant UI flows. When can we sync?",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:40:59.441Z"
+    },
+    {
+      "id": "msg-1788777745033",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "👍 👍",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:42:25.033Z"
+    },
+    {
+      "id": "msg-1788777798973",
+      "conversationId": "conv-1788777787088-504",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Could you share your GitHub or code examples of similar scalable systems?",
+      "isRead": false,
+      "createdAt": "2026-09-07T10:43:18.973Z"
+    },
+    {
+      "id": "msg-1788778252808",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788778252807 created for \"Full E-Commerce Microfrontend Architecture\" with $3200 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T10:50:52.808Z"
+    },
+    {
+      "id": "msg-1788779269670",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "E2E verification message: auto-scroll and role segregation confirmed.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:07:49.670Z"
+    },
+    {
+      "id": "msg-1788779271950",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788779271949 created for \"Full-Stack Security Audit & Zero-Trust Hardening\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:07:51.950Z"
+    },
+    {
+      "id": "msg-1788779337439",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "E2E verification message: auto-scroll and role segregation confirmed.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:08:57.439Z"
+    },
+    {
+      "id": "msg-1788779339616",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788779339614 created for \"Full-Stack Security Audit & Zero-Trust Hardening\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:08:59.616Z"
+    },
+    {
+      "id": "msg-1788779350800",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "E2E verification message: auto-scroll and role segregation confirmed.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:09:10.800Z"
+    },
+    {
+      "id": "msg-1788779352949",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788779352948 created for \"Full-Stack Security Audit & Zero-Trust Hardening\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:09:12.949Z"
+    },
+    {
+      "id": "msg-1788779366088",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "E2E verification message: auto-scroll and role segregation confirmed.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:09:26.088Z"
+    },
+    {
+      "id": "msg-1788779368121",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788779368121 created for \"Full-Stack Security Audit & Zero-Trust Hardening\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:09:28.121Z"
+    },
+    {
+      "id": "msg-1788779519328",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "hi",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:11:59.328Z"
+    },
+    {
+      "id": "msg-1788780662144",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "E2E verification message: auto-scroll and role segregation confirmed.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:31:02.144Z"
+    },
+    {
+      "id": "msg-1788780664883",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788780664882 created for \"Full-Stack Security Audit & Zero-Trust Hardening\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:31:04.883Z"
+    },
+    {
+      "id": "msg-1788781176290",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Automated verification: Client milestone scope sync.",
+      "isRead": true,
+      "createdAt": "2026-09-07T11:39:36.290Z"
+    },
+    {
+      "id": "msg-1788784142309",
+      "conversationId": "conv-1788784136955-244",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "Alex Chen",
+      "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "content": "hi",
+      "isRead": false,
+      "createdAt": "2026-09-07T12:29:02.309Z"
+    },
+    {
+      "id": "msg-1788784204827",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "👍",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:30:04.827Z"
+    },
+    {
+      "id": "msg-1788784283328",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788784283327 created for \"AI Project\" with $1500 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:31:23.328Z"
+    },
+    {
+      "id": "msg-1788784316307",
+      "conversationId": "conv-1788776149207",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "Alex Chen",
+      "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "content": "Hi! Yes, I am available to start immediately and dedicate full bandwidth to this.",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:31:56.307Z"
+    },
+    {
+      "id": "msg-1788784388521",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Hi! Are you available to start on an engineering project this week?",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:33:08.521Z"
+    },
+    {
+      "id": "msg-1788785437047",
+      "conversationId": "conv-1788776149207",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "Alex Chen",
+      "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "content": "Privacy test confirmation timestamp: 1788785437025",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:50:37.047Z"
+    },
+    {
+      "id": "msg-1788785480897",
+      "conversationId": "conv-1788776149207",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "Alex Chen",
+      "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "content": "Privacy test confirmation timestamp: 1788785480876",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:51:20.897Z"
+    },
+    {
+      "id": "msg-1788785569235",
+      "conversationId": "conv-1788776149207",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "Alex Chen",
+      "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "content": "Privacy test confirmation timestamp: 1788785569206",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:52:49.235Z"
+    },
+    {
+      "id": "msg-1788785575516",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "E2E verification message: auto-scroll and role segregation confirmed.",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:52:55.516Z"
+    },
+    {
+      "id": "msg-1788785578003",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788785578002 created for \"Full-Stack Security Audit & Zero-Trust Hardening\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": false,
+      "createdAt": "2026-09-07T12:52:58.003Z"
+    },
+    {
+      "id": "msg-1788785606535",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788785606534 created for \"Custom LLM Orchestration Service & API Gateway\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:53:26.535Z"
+    },
+    {
+      "id": "msg-1788785606563",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Hi Alex! Excited to work together. Have you received the architecture docs?",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:53:26.563Z"
+    },
+    {
+      "id": "msg-1788785606577",
+      "conversationId": "conv-1788776149207",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Yes David! I've reviewed the specs and can start the initial milestone immediately.",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:53:26.577Z"
+    },
+    {
+      "id": "msg-1788785630675",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788785630674 created for \"Custom LLM Orchestration Service & API Gateway\" with $2800 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:53:50.675Z"
+    },
+    {
+      "id": "msg-1788785630697",
+      "conversationId": "conv-1788776149207",
+      "senderId": "cl-1",
+      "senderRole": "CLIENT",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Hi Alex! Excited to work together. Have you received the architecture docs?",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:53:50.697Z"
+    },
+    {
+      "id": "msg-1788785630714",
+      "conversationId": "conv-1788776149207",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "David Sterling",
+      "senderAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "content": "Yes David! I've reviewed the specs and can start the initial milestone immediately.",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:53:50.714Z"
+    },
+    {
+      "id": "msg-1788785639024",
+      "conversationId": "conv-1788776149207",
+      "senderId": "fl-1",
+      "senderRole": "FREELANCER",
+      "senderName": "Alex Chen",
+      "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "content": "Privacy test confirmation timestamp: 1788785639010",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:53:59.024Z"
+    },
+    {
+      "id": "msg-1788785647014",
+      "conversationId": "conv-1788777659075-218",
+      "senderId": "fl-2",
+      "senderRole": "FREELANCER",
+      "senderName": "Elena Rostova",
+      "senderAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+      "content": "Hello Claire! I saw Nexus Health's mobile app revamp project and would love to assist.",
+      "isRead": false,
+      "createdAt": "2026-09-07T12:54:07.014Z"
+    },
+    {
+      "id": "msg-1788785647026",
+      "conversationId": "conv-1788777659075-218",
+      "senderId": "cl-2",
+      "senderRole": "CLIENT",
+      "senderName": "Claire Beauchamp",
+      "senderAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&auto=format&fit=crop&q=80",
+      "content": "Hi Elena! Thanks for reaching out. We require HIPAA-compliant UI flows. When can we sync?",
+      "isRead": true,
+      "createdAt": "2026-09-07T12:54:07.026Z"
+    },
+    {
+      "id": "msg-1788785705246",
+      "conversationId": "conv-1788778252808-935",
+      "senderId": "cl-1",
+      "senderRole": "SYSTEM",
+      "senderName": "ApexLance Escrow",
+      "content": "🎉 Direct Hire Established! Contract ctr-1788785705244 created for \"Full E-Commerce Microfrontend Architecture\" with $3200 locked in escrow. Milestones are active in your workspaces.",
+      "isRead": false,
+      "createdAt": "2026-09-07T12:55:05.246Z"
+    }
+  ]
+}
